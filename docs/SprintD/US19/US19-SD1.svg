@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="814px" preserveAspectRatio="none" style="width:1882px;height:814px;background:#FFFFFF;" version="1.1" viewBox="0 0 1882 814" width="1882px" zoomAndPan="magnify"><defs><filter height="300%" id="f9nst5zmv8zv2" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="611.1953" style="stroke:#A80036;stroke-width:1.0;" width="10" x="44.5" y="99.6094"/><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="228.9766" style="stroke:#A80036;stroke-width:1.0;" width="10" x="603.5" y="243.3672"/><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="208.1094" style="stroke:#A80036;stroke-width:1.0;" width="10" x="603.5" y="502.6953"/><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="198.625" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1138.5" y="273.7188"/><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="177.7578" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1138.5" y="533.0469"/><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="168.2734" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1704.5" y="304.0703"/><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="147.4063" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1704.5" y="563.3984"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="49" x2="49" y1="89.6094" y2="728.8047"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="608" x2="608" y1="89.6094" y2="728.8047"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1143" x2="1143" y1="89.6094" y2="728.8047"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1709.5" x2="1709.5" y1="89.6094" y2="728.8047"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1848.5" x2="1848.5" y1="354.1797" y2="728.8047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="5" y="86.5332">Administrator</text><ellipse cx="49.5" cy="15" fill="#FEFECE" filter="url(#f9nst5zmv8zv2)" rx="8" ry="8" style="stroke:#A80036;stroke-width:2.0;"/><path d="M49.5,23 L49.5,50 M36.5,31 L62.5,31 M49.5,50 L36.5,65 M49.5,50 L62.5,65 " fill="none" filter="url(#f9nst5zmv8zv2)" style="stroke:#A80036;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="5" y="742.3379">Administrator</text><ellipse cx="49.5" cy="755.4141" fill="#FEFECE" filter="url(#f9nst5zmv8zv2)" rx="8" ry="8" style="stroke:#A80036;stroke-width:2.0;"/><path d="M49.5,763.4141 L49.5,790.4141 M36.5,771.4141 L62.5,771.4141 M49.5,790.4141 L36.5,805.4141 M49.5,790.4141 L62.5,805.4141 " fill="none" filter="url(#f9nst5zmv8zv2)" style="stroke:#A80036;stroke-width:2.0;"/><rect fill="#FEFECE" filter="url(#f9nst5zmv8zv2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="99" x="557" y="53"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="564" y="74.5332">:CreateRepUI</text><rect fill="#FEFECE" filter="url(#f9nst5zmv8zv2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="99" x="557" y="727.8047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="564" y="749.3379">:CreateRepUI</text><rect fill="#FEFECE" filter="url(#f9nst5zmv8zv2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="149" x="1067" y="53"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="1074" y="74.5332">:CreateRepController</text><rect fill="#FEFECE" filter="url(#f9nst5zmv8zv2)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="149" x="1067" y="727.8047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="1074" y="749.3379">:CreateRepController</text><rect fill="#FEFECE" filter="url(#f9nst5zmv8zv2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="78" x="1668.5" y="35.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="1690.5" y="56.9238">comp</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="1675.5" y="74.5332">:Company</text><rect fill="#FEFECE" filter="url(#f9nst5zmv8zv2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="78" x="1668.5" y="727.8047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="1690.5" y="749.3379">comp</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="1675.5" y="766.9473">:Company</text><rect fill="#FEFECE" filter="url(#f9nst5zmv8zv2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="44" x="1824.5" y="727.8047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="26" x="1833.5" y="749.3379">Rep</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="1831.5" y="766.9473">:Rep</text><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="611.1953" style="stroke:#A80036;stroke-width:1.0;" width="10" x="44.5" y="99.6094"/><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="228.9766" style="stroke:#A80036;stroke-width:1.0;" width="10" x="603.5" y="243.3672"/><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="208.1094" style="stroke:#A80036;stroke-width:1.0;" width="10" x="603.5" y="502.6953"/><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="198.625" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1138.5" y="273.7188"/><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="177.7578" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1138.5" y="533.0469"/><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="168.2734" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1704.5" y="304.0703"/><rect fill="#FFFFFF" filter="url(#f9nst5zmv8zv2)" height="147.4063" style="stroke:#A80036;stroke-width:1.0;" width="10" x="1704.5" y="563.3984"/><polygon fill="#A80036" points="596.5,117.9609,606.5,121.9609,596.5,125.9609,600.5,121.9609" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="54.5" x2="602.5" y1="121.9609" y2="121.9609"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="61.5" y="117.1045">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="148" x="72.5" y="117.1045">asks to create a new Rep</text><polygon fill="#A80036" points="65.5,148.3125,55.5,152.3125,65.5,156.3125,61.5,152.3125" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="59.5" x2="607.5" y1="152.3125" y2="152.3125"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="71.5" y="147.4561">2</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="251" x="82.5" y="147.4561">requests to choose between days or weeks</text><polygon fill="#A80036" points="596.5,178.6641,606.5,182.6641,596.5,186.6641,600.5,182.6641" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="54.5" x2="602.5" y1="182.6641" y2="182.6641"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="61.5" y="177.8076">3</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="228" x="72.5" y="177.8076">types one of the options (days / weeks)</text><polygon fill="#A80036" points="65.5,209.0156,55.5,213.0156,65.5,217.0156,61.5,213.0156" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="59.5" x2="607.5" y1="213.0156" y2="213.0156"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="71.5" y="208.1592">4</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="519" x="82.5" y="208.1592">requests data (historical points, interval of dates, regression model, independent variables)</text><polygon fill="#A80036" points="591.5,239.3672,601.5,243.3672,591.5,247.3672,595.5,243.3672" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="54.5" x2="597.5" y1="243.3672" y2="243.3672"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="61.5" y="238.5107">5</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="122" x="72.5" y="238.5107">types requested data</text><polygon fill="#A80036" points="1126.5,269.7188,1136.5,273.7188,1126.5,277.7188,1130.5,273.7188" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="613.5" x2="1132.5" y1="273.7188" y2="273.7188"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="620.5" y="268.8623">6</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="495" x="631.5" y="268.8623">createRep(historical points, interval of dates, regression model, independent variables)</text><polygon fill="#A80036" points="1692.5,300.0703,1702.5,304.0703,1692.5,308.0703,1696.5,304.0703" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1148.5" x2="1698.5" y1="304.0703" y2="304.0703"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="1155.5" y="299.2139">7</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="526" x="1166.5" y="299.2139">Rep=createRep(historical points, interval of dates, regression model, independent variables)</text><polygon fill="#A80036" points="1812.5,330.4219,1822.5,334.4219,1812.5,338.4219,1816.5,334.4219" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="1714.5" x2="1818.5" y1="334.4219" y2="334.4219"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="1721.5" y="329.5654">8</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="44" x="1732.5" y="329.5654">create()</text><rect fill="#FEFECE" filter="url(#f9nst5zmv8zv2)" height="49.2188" style="stroke:#A80036;stroke-width:1.5;" width="44" x="1824.5" y="312.0703"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="26" x="1833.5" y="333.6035">Rep</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="1831.5" y="351.2129">:Rep</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1714.5" x2="1756.5" y1="398.6406" y2="398.6406"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1756.5" x2="1756.5" y1="398.6406" y2="411.6406"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1715.5" x2="1756.5" y1="411.6406" y2="411.6406"/><polygon fill="#A80036" points="1725.5,407.6406,1715.5,411.6406,1725.5,415.6406,1721.5,411.6406" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="1721.5" y="393.7842">9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="97" x="1732.5" y="393.7842">validateRep(Rep)</text><polygon fill="#A80036" points="624.5,437.9922,614.5,441.9922,624.5,445.9922,620.5,441.9922" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="618.5" x2="1137.5" y1="441.9922" y2="441.9922"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="630.5" y="437.1357">10</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="648.5" y="437.1357">result</text><polygon fill="#A80036" points="65.5,468.3438,55.5,472.3438,65.5,476.3438,61.5,472.3438" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="59.5" x2="607.5" y1="472.3438" y2="472.3438"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="71.5" y="467.4873">11</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="236" x="89.5" y="467.4873">shows all data and requests confirmation</text><polygon fill="#A80036" points="591.5,498.6953,601.5,502.6953,591.5,506.6953,595.5,502.6953" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="54.5" x2="597.5" y1="502.6953" y2="502.6953"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="61.5" y="497.8389">12</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="79.5" y="497.8389">confirms the data</text><polygon fill="#A80036" points="1126.5,529.0469,1136.5,533.0469,1126.5,537.0469,1130.5,533.0469" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="613.5" x2="1132.5" y1="533.0469" y2="533.0469"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="620.5" y="528.1904">13</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="485" x="638.5" y="528.1904">saveRep(historical points, interval of dates, regression model, independent variables)</text><polygon fill="#A80036" points="1692.5,559.3984,1702.5,563.3984,1692.5,567.3984,1696.5,563.3984" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1148.5" x2="1698.5" y1="563.3984" y2="563.3984"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1155.5" y="558.542">14</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="80" x="1173.5" y="558.542">saveRep(Rep)</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1714.5" x2="1756.5" y1="593.75" y2="593.75"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1756.5" x2="1756.5" y1="593.75" y2="606.75"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1715.5" x2="1756.5" y1="606.75" y2="606.75"/><polygon fill="#A80036" points="1725.5,602.75,1715.5,606.75,1725.5,610.75,1721.5,606.75" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1721.5" y="588.8936">15</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="97" x="1739.5" y="588.8936">validateRep(Rep)</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1714.5" x2="1756.5" y1="637.1016" y2="637.1016"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1756.5" x2="1756.5" y1="637.1016" y2="650.1016"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1715.5" x2="1756.5" y1="650.1016" y2="650.1016"/><polygon fill="#A80036" points="1725.5,646.1016,1715.5,650.1016,1725.5,654.1016,1721.5,650.1016" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="1721.5" y="632.2451">16</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="1739.5" y="632.2451">addRep(Rep)</text><polygon fill="#A80036" points="624.5,676.4531,614.5,680.4531,624.5,684.4531,620.5,680.4531" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="618.5" x2="1137.5" y1="680.4531" y2="680.4531"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="630.5" y="675.5967">17</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="648.5" y="675.5967">result</text><polygon fill="#A80036" points="60.5,706.8047,50.5,710.8047,60.5,714.8047,56.5,710.8047" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="54.5" x2="607.5" y1="710.8047" y2="710.8047"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="14" x="66.5" y="705.9482">18</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="152" x="84.5" y="705.9482">informs operation success</text><!--MD5=[a93c1b0d0158fb680056dbf4513adc3c]
+@startuml
+autonumber
+'hide footbox
+actor "Administrator" as ADM
+
+participant ":CreateRepUI" as UI
+participant ":CreateRepController" as CTRL
+participant "comp\n:Company" as COMP
+participant "Rep\n:Rep" as Rep
+
+activate ADM
+ADM -> UI : asks to create a new Rep
+UI -> ADM : requests to choose between days or weeks
+ADM -> UI : types one of the options (days / weeks)
+
+UI - -> ADM : requests data (historical points, interval of dates, regression model, independent variables)
+deactivate UI
+
+ADM -> UI : types requested data
+activate UI
+
+
+UI -> CTRL : createRep(historical points, interval of dates, regression model, independent variables)
+activate CTRL
+
+
+
+CTRL -> COMP: Rep=createRep(historical points, interval of dates, regression model, independent variables)
+activate COMP
+
+COMP - -> Rep**: create()
+COMP -> COMP: validateRep(Rep)
+
+CTRL - -> UI: result
+
+UI - -> ADM: shows all data and requests confirmation
+deactivate COMP
+deactivate COMP
+deactivate CTRL
+deactivate UI
+
+ADM -> UI : confirms the data
+activate UI
+UI -> CTRL : saveRep(historical points, interval of dates, regression model, independent variables)
+activate CTRL
+
+CTRL -> COMP : saveRep(Rep)
+activate COMP
+
+COMP -> COMP: validateRep(Rep)
+COMP -> COMP: addRep(Rep)
+
+CTRL - -> UI: result
+
+UI - -> ADM : informs operation success
+deactivate COMP
+deactivate CTRL
+deactivate UI
+
+deactivate ADM
+
+@enduml
+
+@startuml
+autonumber
+actor "Administrator" as ADM
+
+participant ":CreateRepUI" as UI
+participant ":CreateRepController" as CTRL
+participant "comp\n:Company" as COMP
+participant "Rep\n:Rep" as Rep
+
+activate ADM
+ADM -> UI : asks to create a new Rep
+UI -> ADM : requests to choose between days or weeks
+ADM -> UI : types one of the options (days / weeks)
+
+UI - -> ADM : requests data (historical points, interval of dates, regression model, independent variables)
+deactivate UI
+
+ADM -> UI : types requested data
+activate UI
+
+
+UI -> CTRL : createRep(historical points, interval of dates, regression model, independent variables)
+activate CTRL
+
+
+
+CTRL -> COMP: Rep=createRep(historical points, interval of dates, regression model, independent variables)
+activate COMP
+
+COMP - -> Rep**: create()
+COMP -> COMP: validateRep(Rep)
+
+CTRL - -> UI: result
+
+UI - -> ADM: shows all data and requests confirmation
+deactivate COMP
+deactivate COMP
+deactivate CTRL
+deactivate UI
+
+ADM -> UI : confirms the data
+activate UI
+UI -> CTRL : saveRep(historical points, interval of dates, regression model, independent variables)
+activate CTRL
+
+CTRL -> COMP : saveRep(Rep)
+activate COMP
+
+COMP -> COMP: validateRep(Rep)
+COMP -> COMP: addRep(Rep)
+
+CTRL - -> UI: result
+
+UI - -> ADM : informs operation success
+deactivate COMP
+deactivate CTRL
+deactivate UI
+
+deactivate ADM
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 13:40:07 BST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: Dynamic Code Evolution 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

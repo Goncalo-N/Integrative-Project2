@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="211px" preserveAspectRatio="none" style="width:912px;height:211px;" version="1.1" viewBox="0 0 912 211" width="912px" zoomAndPan="magnify"><defs><filter height="300%" id="f4bl2zwbfrggl" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[02e4b9b7573f1156f41e60aa5b4e25a4]
+class Company--><rect codeLine="7" fill="#FEFECE" filter="url(#f4bl2zwbfrggl)" height="53.8359" id="Company" style="stroke:#A80036;stroke-width:1.5;" width="85" x="7" y="95.57"/><ellipse cx="22" cy="111.57" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M24,108.07 Q24.2031,107.57 24.4375,107.32 Q24.6719,107.07 24.9375,107.07 Q25.4063,107.07 25.7031,107.3513 Q26,107.6325 26,108.2888 L26,109.8513 Q26,110.5075 25.7188,110.7888 Q25.4375,111.07 25,111.07 Q24.6094,111.07 24.3594,110.8981 Q24.1094,110.7263 24,110.2731 Q23.9531,109.9606 23.7813,109.7888 Q23.4688,109.4606 22.9063,109.2731 Q22.3438,109.07 21.7813,109.07 Q21.0781,109.07 20.4844,109.3513 Q19.9063,109.6325 19.4531,110.2575 Q19,110.8825 19,111.7419 L19,112.6638 Q19,113.695 19.8438,114.3825 Q20.6875,115.07 22.1875,115.07 Q23.0781,115.07 23.7031,114.8669 Q24.0625,114.7575 24.4688,114.3981 Q24.7344,114.195 24.875,114.1325 Q25.0156,114.07 25.1875,114.07 Q25.5156,114.07 25.75,114.3356 Q26,114.5856 26,114.945 Q26,115.2888 25.6563,115.695 Q25.1563,116.2888 24.3594,116.6169 Q23.3125,117.07 22.0313,117.07 Q20.5313,117.07 19.3281,116.4763 Q18.3594,116.0075 17.6719,114.9919 Q17,113.9763 17,112.7731 L17,111.6794 Q17,110.4294 17.5938,109.3356 Q18.2031,108.2419 19.25,107.6638 Q20.3125,107.07 21.5,107.07 Q22.2188,107.07 22.8438,107.32 Q23.4688,107.57 24,108.07 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="53" x="36" y="116.4802">Company</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="91" y1="127.57" y2="127.57"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="13" y="142.9889">-designation</text><!--MD5=[1f6362a5c8f21d8d6a0fce68f3a92a4e]
+class Parameter--><rect codeLine="11" fill="#FEFECE" filter="url(#f4bl2zwbfrggl)" height="53.8359" id="Parameter" style="stroke:#A80036;stroke-width:1.5;" width="90" x="541.5" y="95.57"/><ellipse cx="556.5" cy="111.57" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M558.5,108.07 Q558.7031,107.57 558.9375,107.32 Q559.1719,107.07 559.4375,107.07 Q559.9063,107.07 560.2031,107.3513 Q560.5,107.6325 560.5,108.2888 L560.5,109.8513 Q560.5,110.5075 560.2188,110.7888 Q559.9375,111.07 559.5,111.07 Q559.1094,111.07 558.8594,110.8981 Q558.6094,110.7263 558.5,110.2731 Q558.4531,109.9606 558.2813,109.7888 Q557.9688,109.4606 557.4063,109.2731 Q556.8438,109.07 556.2813,109.07 Q555.5781,109.07 554.9844,109.3513 Q554.4063,109.6325 553.9531,110.2575 Q553.5,110.8825 553.5,111.7419 L553.5,112.6638 Q553.5,113.695 554.3438,114.3825 Q555.1875,115.07 556.6875,115.07 Q557.5781,115.07 558.2031,114.8669 Q558.5625,114.7575 558.9688,114.3981 Q559.2344,114.195 559.375,114.1325 Q559.5156,114.07 559.6875,114.07 Q560.0156,114.07 560.25,114.3356 Q560.5,114.5856 560.5,114.945 Q560.5,115.2888 560.1563,115.695 Q559.6563,116.2888 558.8594,116.6169 Q557.8125,117.07 556.5313,117.07 Q555.0313,117.07 553.8281,116.4763 Q552.8594,116.0075 552.1719,114.9919 Q551.5,113.9763 551.5,112.7731 L551.5,111.6794 Q551.5,110.4294 552.0938,109.3356 Q552.7031,108.2419 553.75,107.6638 Q554.8125,107.07 556,107.07 Q556.7188,107.07 557.3438,107.32 Q557.9688,107.57 558.5,108.07 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="58" x="570.5" y="116.4802">Parameter</text><line style="stroke:#A80036;stroke-width:1.5;" x1="542.5" x2="630.5" y1="127.57" y2="127.57"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="547.5" y="142.9889">-designation</text><!--MD5=[36afb6bbd95a8ac778c4537c55a683d5]
+class ParameterCategory--><rect codeLine="15" fill="#FEFECE" filter="url(#f4bl2zwbfrggl)" height="95.3438" id="ParameterCategory" style="stroke:#A80036;stroke-width:1.5;" width="139" x="759" y="75.07"/><ellipse cx="774" cy="91.07" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M776,87.57 Q776.2031,87.07 776.4375,86.82 Q776.6719,86.57 776.9375,86.57 Q777.4063,86.57 777.7031,86.8513 Q778,87.1325 778,87.7888 L778,89.3513 Q778,90.0075 777.7188,90.2888 Q777.4375,90.57 777,90.57 Q776.6094,90.57 776.3594,90.3981 Q776.1094,90.2263 776,89.7731 Q775.9531,89.4606 775.7813,89.2888 Q775.4688,88.9606 774.9063,88.7731 Q774.3438,88.57 773.7813,88.57 Q773.0781,88.57 772.4844,88.8513 Q771.9063,89.1325 771.4531,89.7575 Q771,90.3825 771,91.2419 L771,92.1638 Q771,93.195 771.8438,93.8825 Q772.6875,94.57 774.1875,94.57 Q775.0781,94.57 775.7031,94.3669 Q776.0625,94.2575 776.4688,93.8981 Q776.7344,93.695 776.875,93.6325 Q777.0156,93.57 777.1875,93.57 Q777.5156,93.57 777.75,93.8356 Q778,94.0856 778,94.445 Q778,94.7888 777.6563,95.195 Q777.1563,95.7888 776.3594,96.1169 Q775.3125,96.57 774.0313,96.57 Q772.5313,96.57 771.3281,95.9763 Q770.3594,95.5075 769.6719,94.4919 Q769,93.4763 769,92.2731 L769,91.1794 Q769,89.9294 769.5938,88.8356 Q770.2031,87.7419 771.25,87.1638 Q772.3125,86.57 773.5,86.57 Q774.2188,86.57 774.8438,86.82 Q775.4688,87.07 776,87.57 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="107" x="788" y="95.9802">ParameterCategory</text><line style="stroke:#A80036;stroke-width:1.5;" x1="760" x2="897" y1="107.07" y2="107.07"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="765" y="122.4889">-designation</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="41" x="765" y="136.3249">-pcCode</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="70" x="765" y="150.1608">-pcDescription</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="30" x="765" y="163.9968">-nhsld</text><!--MD5=[7421f545a0d8420c5bec41e74b387d9c]
+class Employee--><rect codeLine="22" fill="#FEFECE" filter="url(#f4bl2zwbfrggl)" height="150.6875" id="Employee" style="stroke:#A80036;stroke-width:1.5;" width="96" x="149.5" y="47.07"/><ellipse cx="168.55" cy="63.07" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M170.55,59.57 Q170.7531,59.07 170.9875,58.82 Q171.2219,58.57 171.4875,58.57 Q171.9563,58.57 172.2531,58.8512 Q172.55,59.1325 172.55,59.7887 L172.55,61.3512 Q172.55,62.0075 172.2688,62.2887 Q171.9875,62.57 171.55,62.57 Q171.1594,62.57 170.9094,62.3981 Q170.6594,62.2262 170.55,61.7731 Q170.5031,61.4606 170.3313,61.2887 Q170.0188,60.9606 169.4563,60.7731 Q168.8938,60.57 168.3313,60.57 Q167.6281,60.57 167.0344,60.8512 Q166.4563,61.1325 166.0031,61.7575 Q165.55,62.3825 165.55,63.2419 L165.55,64.1638 Q165.55,65.195 166.3938,65.8825 Q167.2375,66.57 168.7375,66.57 Q169.6281,66.57 170.2531,66.3669 Q170.6125,66.2575 171.0188,65.8981 Q171.2844,65.695 171.425,65.6325 Q171.5656,65.57 171.7375,65.57 Q172.0656,65.57 172.3,65.8356 Q172.55,66.0856 172.55,66.445 Q172.55,66.7888 172.2063,67.195 Q171.7063,67.7888 170.9094,68.1169 Q169.8625,68.57 168.5813,68.57 Q167.0813,68.57 165.8781,67.9763 Q164.9094,67.5075 164.2219,66.4919 Q163.55,65.4763 163.55,64.2731 L163.55,63.1794 Q163.55,61.9294 164.1438,60.8356 Q164.7531,59.7419 165.8,59.1637 Q166.8625,58.57 168.05,58.57 Q168.7688,58.57 169.3938,58.82 Q170.0188,59.07 170.55,59.57 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="55" x="183.45" y="67.9802">Employee</text><line style="stroke:#A80036;stroke-width:1.5;" x1="150.5" x2="244.5" y1="79.07" y2="79.07"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="155.5" y="94.4889">-employeeID</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="155.5" y="108.3249">-organizationRole</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="30" x="155.5" y="122.1608">-name</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="155.5" y="135.9968">-address</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="71" x="155.5" y="149.8327">-phoneNumber</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="28" x="155.5" y="163.6686">-email</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="155.5" y="177.5046">-standard</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="22" x="155.5" y="191.3405">-soc</text><!--MD5=[da547346deef918ea16944ba046651ef]
+class Administrator--><rect codeLine="33" fill="#FEFECE" filter="url(#f4bl2zwbfrggl)" height="150.6875" id="Administrator" style="stroke:#A80036;stroke-width:1.5;" width="105" x="341" y="47.07"/><ellipse cx="356" cy="63.07" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M358,59.57 Q358.2031,59.07 358.4375,58.82 Q358.6719,58.57 358.9375,58.57 Q359.4063,58.57 359.7031,58.8512 Q360,59.1325 360,59.7887 L360,61.3512 Q360,62.0075 359.7188,62.2887 Q359.4375,62.57 359,62.57 Q358.6094,62.57 358.3594,62.3981 Q358.1094,62.2262 358,61.7731 Q357.9531,61.4606 357.7813,61.2887 Q357.4688,60.9606 356.9063,60.7731 Q356.3438,60.57 355.7813,60.57 Q355.0781,60.57 354.4844,60.8512 Q353.9063,61.1325 353.4531,61.7575 Q353,62.3825 353,63.2419 L353,64.1638 Q353,65.195 353.8438,65.8825 Q354.6875,66.57 356.1875,66.57 Q357.0781,66.57 357.7031,66.3669 Q358.0625,66.2575 358.4688,65.8981 Q358.7344,65.695 358.875,65.6325 Q359.0156,65.57 359.1875,65.57 Q359.5156,65.57 359.75,65.8356 Q360,66.0856 360,66.445 Q360,66.7888 359.6563,67.195 Q359.1563,67.7888 358.3594,68.1169 Q357.3125,68.57 356.0313,68.57 Q354.5313,68.57 353.3281,67.9763 Q352.3594,67.5075 351.6719,66.4919 Q351,65.4763 351,64.2731 L351,63.1794 Q351,61.9294 351.5938,60.8356 Q352.2031,59.7419 353.25,59.1637 Q354.3125,58.57 355.5,58.57 Q356.2188,58.57 356.8438,58.82 Q357.4688,59.07 358,59.57 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="73" x="370" y="67.9802">Administrator</text><line style="stroke:#A80036;stroke-width:1.5;" x1="342" x2="445" y1="79.07" y2="79.07"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="347" y="94.4889">-employeeID</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="347" y="108.3249">-organizationRole</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="30" x="347" y="122.1608">-name</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="347" y="135.9968">-address</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="71" x="347" y="149.8327">-phoneNumber</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="28" x="347" y="163.6686">-email</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="347" y="177.5046">-standard</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="22" x="347" y="191.3405">-soc</text><!--MD5=[eaea43e34e45c5b9d20b595fc78f1f20]
+link Company to Administrator--><path codeLine="44" d="M73.39,95.34 C90.07,78.32 113.87,57.67 139.5,47.07 C181.07,29.88 302.46,11.73 341.5,34.07 C347.53,37.52 352.93,41.98 357.76,47.05 " fill="none" id="Company-Administrator" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="299.4294,27.4087,290.02,26.0256,291.004,31.8204,299.4294,27.4087" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="303.5" y="33.5651">knows</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="71.1052" y="84.7478">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="346.7134" y="35.9664">1</text><!--MD5=[12d76240d3c3c66074d4ec2ea8bf469c]
+link Company to Parameter--><path codeLine="45" d="M54.52,95.36 C59.93,74.61 70.79,47.41 92,34.07 C127.17,11.95 396.69,29.15 456.5,47.07 C490.75,57.33 525.57,78.23 550.55,95.45 " fill="none" id="Company-Parameter" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="102,28.2467,92.9554,25.3061,92.9544,31.184,102,28.2467" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="106" y="33.5651">capable of analysing</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="47.8715" y="84.7724">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="536.6584" y="84.8832">*</text><!--MD5=[93b4f25fb503a8e0e9a46b1d30ff3f44]
+link Company to ParameterCategory--><path codeLine="46" d="M73.96,95.44 C90.71,78.68 114.36,58.3 139.5,47.07 C176.81,30.41 189.75,36.97 230.5,34.07 C356.58,25.11 448.88,6 641.5,47.07 C681.73,55.65 724.43,72.26 758.85,87.72 " fill="none" id="Company-ParameterCategory" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="240.4997,28.1894,231.422,25.3526,231.4883,31.2301,240.4997,28.1894" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="39" x="244.5" y="33.5651">adopts</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="80.4258" y="84.8709">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="745.9586" y="80.5288">*</text><!--MD5=[b8a4f1f13c2d56b2385b1bfafed8418f]
+link Employee to Administrator--><path codeLine="48" d="M245.69,103.67 C248.89,102.84 252.1,102.13 255.25,101.57 C288.52,95.71 297.92,96.1 331.25,101.57 C334.4,102.09 337.61,102.74 340.82,103.5 " fill="none" id="Employee-Administrator" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="271.25,86.7368,262.1997,83.8141,262.2102,89.6919,271.25,86.7368" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="275.25" y="92.0651">plays as</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="253.605" y="97.0969">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="26" x="306.8153" y="97.7364">0.. 1</text><!--MD5=[b8a4f1f13c2d56b2385b1bfafed8418f]
+link Employee to Administrator--><path codeLine="50" d="M245.7,122.57 C274.49,122.57 311.09,122.57 340.66,122.57 " fill="none" id="Employee-Administrator-1" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="265.25,110.7458,256.2049,107.8069,256.2049,113.6847,265.25,110.7458" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="61" x="269.25" y="116.0651">created by</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="253.4634" y="118.891">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="326.0893" y="119.0347">1</text><!--MD5=[b8a4f1f13c2d56b2385b1bfafed8418f]
+link Employee to Administrator--><path codeLine="52" d="M245.83,140.25 C250.98,141.6 256.19,142.76 261.25,143.57 C289.34,148.08 297.12,147.8 325.25,143.57 C330.4,142.8 335.7,141.71 340.95,140.44 " fill="none" id="Employee-Administrator-2" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="271.25,134.7558,262.2108,131.7988,262.1991,137.6766,271.25,134.7558" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="275.25" y="140.0651">works at</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="253.6133" y="139.2782">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="326.068" y="139.3698">1</text><!--MD5=[6df8849671cb880f6936e94aa30db6f9]
+link Parameter to ParameterCategory--><path codeLine="54" d="M631.73,122.57 C667.44,122.57 717.87,122.57 758.74,122.57 " fill="none" id="Parameter-ParameterCategory" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="651.25,110.7458,642.2049,107.8069,642.2049,113.6847,651.25,110.7458" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="93" x="655.25" y="116.0651">presented under</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="639.6353" y="118.7828">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="744.1851" y="119.2405">1</text><!--MD5=[7a9e3e328fb1db48284e23a673c1e60d]
+link ParameterCategory to Parameter--><path codeLine="59" d="M758.71,139.51 C729.1,144.6 694.23,147.83 662.75,143.57 C652.54,142.19 641.77,139.82 631.65,137.15 " fill="none" id="ParameterCategory-Parameter" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="662.7509,134.6529,671.7398,137.7593,671.849,131.8825,662.7509,134.6529" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="676.75" y="140.0651">presents</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="745.8033" y="137.9834">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="639.542" y="154.4276">*</text><!--MD5=[cf4793ee9d8e468829d360120e63d908]
+link Parameter to Administrator--><path codeLine="55" d="M541.36,122.57 C512.9,122.57 476.04,122.57 446.24,122.57 " fill="none" id="Parameter-Administrator" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="455.75,110.7458,464.7951,113.6847,464.7951,107.8069,455.75,110.7458" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="61" x="469.75" y="116.0651">created by</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="528.4696" y="118.7828">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="454.1488" y="118.9868">1</text><!--MD5=[4816e9029af7918ac30a965ff8ded5aa]
+link Administrator to Parameter--><path codeLine="62" d="M446.04,139.88 C452.29,141.4 458.62,142.69 464.75,143.57 C490.26,147.25 497.3,147.65 522.75,143.57 C528.85,142.59 535.15,141.12 541.32,139.4 " fill="none" id="Administrator-Parameter" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="474.7499,134.7206,465.6902,131.8273,465.7198,137.705,474.7499,134.7206" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="478.75" y="140.0651">creates</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="453.9206" y="138.731">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="528.423" y="138.4003">*</text><!--MD5=[8fed49cf12a674e36a1de475622ee091]
+link ParameterCategory to Administrator--><path codeLine="58" d="M782.21,74.96 C763.24,58.71 740,42.52 715.5,34.07 C638,7.33 609.78,22.71 531.5,47.07 C501.64,56.36 470.89,72.45 446.01,87.39 " fill="none" id="ParameterCategory-Administrator" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="648.5034,28.4305,657.6509,31.0332,657.4337,25.1594,648.5034,28.4305" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="61" x="662.5" y="33.5651">created by</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="775.7783" y="64.288">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="453.8864" y="97.1096">1</text><!--MD5=[7144ffdeebbe38808f7fb2ce8ac24f7d]
+link Administrator to ParameterCategory--><path codeLine="63" d="M446.01,87.39 C470.89,72.45 501.64,56.36 531.5,47.07 C609.78,22.71 638,7.33 715.5,34.07 C740,42.52 763.24,58.71 782.21,74.96 " fill="none" id="Administrator-ParameterCategory" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="667.4966,28.061,658.3491,25.4583,658.5663,31.3322,667.4966,28.061" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="671.5" y="33.5651">creates</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="453.8864" y="78.8596">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="770.044" y="64.288">*</text><!--MD5=[d5599e99a97ca0b46ffd6304409e99e9]
+@startuml
+'https://plantuml.com/class-diagram
+hide methods
+skinparam classAttributeIconSize 0
+skinparam nodesep 20
+skinparam ranksep 20
+
+class Company {
+-designation
+}
+
+class Parameter {
+-designation
+}
+
+class ParameterCategory {
+-designation
+-pcCode
+-pcDescription
+-nhsld
+}
+
+class Employee {
+-employeeID
+-organizationRole
+-name
+-address
+-phoneNumber
+-email
+-standard
+-soc
+}
+
+class Administrator {
+-employeeID
+-organizationRole
+-name
+-address
+-phoneNumber
+-email
+-standard
+-soc
+}
+
+Company "1" - "1" Administrator : knows >
+Company "1" - "*" Parameter : capable of analysing >
+Company "1" - "*" ParameterCategory : adopts >
+
+Employee "1" - "0.. 1" Administrator : plays as >
+
+Employee "*" - "1" Administrator : created by >
+
+Employee "*" - "1" Administrator : works at >
+
+Parameter "*" - "1" ParameterCategory : presented under >
+Parameter "*" - "1" Administrator : created by >
+
+
+ParameterCategory "*" - "1" Administrator : created by >
+ParameterCategory "*" - "*" Parameter : presents >
+
+
+Administrator "1" - "*" Parameter : creates >
+Administrator "1" - "*" ParameterCategory : creates >
+
+@enduml
+
+@startuml
+hide methods
+skinparam classAttributeIconSize 0
+skinparam nodesep 20
+skinparam ranksep 20
+
+class Company {
+-designation
+}
+
+class Parameter {
+-designation
+}
+
+class ParameterCategory {
+-designation
+-pcCode
+-pcDescription
+-nhsld
+}
+
+class Employee {
+-employeeID
+-organizationRole
+-name
+-address
+-phoneNumber
+-email
+-standard
+-soc
+}
+
+class Administrator {
+-employeeID
+-organizationRole
+-name
+-address
+-phoneNumber
+-email
+-standard
+-soc
+}
+
+Company "1" - "1" Administrator : knows >
+Company "1" - "*" Parameter : capable of analysing >
+Company "1" - "*" ParameterCategory : adopts >
+
+Employee "1" - "0.. 1" Administrator : plays as >
+
+Employee "*" - "1" Administrator : created by >
+
+Employee "*" - "1" Administrator : works at >
+
+Parameter "*" - "1" ParameterCategory : presented under >
+Parameter "*" - "1" Administrator : created by >
+
+
+ParameterCategory "*" - "1" Administrator : created by >
+ParameterCategory "*" - "*" Parameter : presents >
+
+
+Administrator "1" - "*" Parameter : creates >
+Administrator "1" - "*" ParameterCategory : creates >
+
+@enduml
+
+PlantUML version 1.2021.5(Sun Apr 25 12:20:28 BST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

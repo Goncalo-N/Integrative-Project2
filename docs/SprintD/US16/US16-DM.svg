@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="646.5px" preserveAspectRatio="none" style="width:1309px;height:646px;" version="1.1" viewBox="0 0 1309 646" width="1309.5px" zoomAndPan="magnify"><defs><filter height="300%" id="fzd1we6k6jn5k" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="3.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="6.0" dy="6.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[02e4b9b7573f1156f41e60aa5b4e25a4]
+class Company--><rect codeLine="7" fill="#FEFECE" filter="url(#fzd1we6k6jn5k)" height="80.7539" id="Company" style="stroke:#A80036;stroke-width:2.25;" width="127.5" x="1161.75" y="483.75"/><ellipse cx="1184.25" cy="507.75" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M1187.25,502.5 Q1187.5547,501.75 1187.9063,501.375 Q1188.2578,501 1188.6563,501 Q1189.3594,501 1189.8047,501.4219 Q1190.25,501.8438 1190.25,502.8281 L1190.25,505.1719 Q1190.25,506.1563 1189.8281,506.5781 Q1189.4063,507 1188.75,507 Q1188.1641,507 1187.7891,506.7422 Q1187.4141,506.4844 1187.25,505.8047 Q1187.1797,505.3359 1186.9219,505.0781 Q1186.4531,504.5859 1185.6094,504.3047 Q1184.7656,504 1183.9219,504 Q1182.8672,504 1181.9766,504.4219 Q1181.1094,504.8438 1180.4297,505.7813 Q1179.75,506.7188 1179.75,508.0078 L1179.75,509.3906 Q1179.75,510.9375 1181.0156,511.9688 Q1182.2813,513 1184.5313,513 Q1185.8672,513 1186.8047,512.6953 Q1187.3438,512.5313 1187.9531,511.9922 Q1188.3516,511.6875 1188.5625,511.5938 Q1188.7734,511.5 1189.0313,511.5 Q1189.5234,511.5 1189.875,511.8984 Q1190.25,512.2734 1190.25,512.8125 Q1190.25,513.3281 1189.7344,513.9375 Q1188.9844,514.8281 1187.7891,515.3203 Q1186.2188,516 1184.2969,516 Q1182.0469,516 1180.2422,515.1094 Q1178.7891,514.4063 1177.7578,512.8828 Q1176.75,511.3594 1176.75,509.5547 L1176.75,507.9141 Q1176.75,506.0391 1177.6406,504.3984 Q1178.5547,502.7578 1180.125,501.8906 Q1181.7188,501 1183.5,501 Q1184.5781,501 1185.5156,501.375 Q1186.4531,501.75 1187.25,502.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="79.5" x="1205.25" y="515.1152">Company</text><line style="stroke:#A80036;stroke-width:2.25;" x1="1163.25" x2="1287.75" y1="531.75" y2="531.75"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="88.5" x="1170.75" y="554.8784">-designation</text><!--MD5=[df38be88ccee13e832d6fafd6288a4ca]
+class Test--><rect codeLine="11" fill="#FEFECE" filter="url(#fzd1we6k6jn5k)" height="101.5078" id="Test" style="stroke:#A80036;stroke-width:2.25;" width="84" x="10.5" y="473.25"/><ellipse cx="33" cy="497.25" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M36,492 Q36.3047,491.25 36.6563,490.875 Q37.0078,490.5 37.4063,490.5 Q38.1094,490.5 38.5547,490.9219 Q39,491.3438 39,492.3281 L39,494.6719 Q39,495.6563 38.5781,496.0781 Q38.1563,496.5 37.5,496.5 Q36.9141,496.5 36.5391,496.2422 Q36.1641,495.9844 36,495.3047 Q35.9297,494.8359 35.6719,494.5781 Q35.2031,494.0859 34.3594,493.8047 Q33.5156,493.5 32.6719,493.5 Q31.6172,493.5 30.7266,493.9219 Q29.8594,494.3438 29.1797,495.2813 Q28.5,496.2188 28.5,497.5078 L28.5,498.8906 Q28.5,500.4375 29.7656,501.4688 Q31.0313,502.5 33.2813,502.5 Q34.6172,502.5 35.5547,502.1953 Q36.0938,502.0313 36.7031,501.4922 Q37.1016,501.1875 37.3125,501.0938 Q37.5234,501 37.7813,501 Q38.2734,501 38.625,501.3984 Q39,501.7734 39,502.3125 Q39,502.8281 38.4844,503.4375 Q37.7344,504.3281 36.5391,504.8203 Q34.9688,505.5 33.0469,505.5 Q30.7969,505.5 28.9922,504.6094 Q27.5391,503.9063 26.5078,502.3828 Q25.5,500.8594 25.5,499.0547 L25.5,497.4141 Q25.5,495.5391 26.3906,493.8984 Q27.3047,492.2578 28.875,491.3906 Q30.4688,490.5 32.25,490.5 Q33.3281,490.5 34.2656,490.875 Q35.2031,491.25 36,492 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="36" x="54" y="504.6152">Test</text><line style="stroke:#A80036;stroke-width:2.25;" x1="12" x2="93" y1="521.25" y2="521.25"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="43.5" x="19.5" y="544.3784">-Code</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="45" x="19.5" y="565.1323">-name</text><!--MD5=[c18fe2235af84d27f50ab7ae87a88372]
+class TestValidation--><rect codeLine="16" fill="#FEFECE" filter="url(#fzd1we6k6jn5k)" height="80.7539" id="TestValidation" style="stroke:#A80036;stroke-width:2.25;" width="165" x="294" y="483.75"/><ellipse cx="316.5" cy="507.75" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M319.5,502.5 Q319.8047,501.75 320.1563,501.375 Q320.5078,501 320.9063,501 Q321.6094,501 322.0547,501.4219 Q322.5,501.8438 322.5,502.8281 L322.5,505.1719 Q322.5,506.1563 322.0781,506.5781 Q321.6563,507 321,507 Q320.4141,507 320.0391,506.7422 Q319.6641,506.4844 319.5,505.8047 Q319.4297,505.3359 319.1719,505.0781 Q318.7031,504.5859 317.8594,504.3047 Q317.0156,504 316.1719,504 Q315.1172,504 314.2266,504.4219 Q313.3594,504.8438 312.6797,505.7813 Q312,506.7188 312,508.0078 L312,509.3906 Q312,510.9375 313.2656,511.9688 Q314.5313,513 316.7813,513 Q318.1172,513 319.0547,512.6953 Q319.5938,512.5313 320.2031,511.9922 Q320.6016,511.6875 320.8125,511.5938 Q321.0234,511.5 321.2813,511.5 Q321.7734,511.5 322.125,511.8984 Q322.5,512.2734 322.5,512.8125 Q322.5,513.3281 321.9844,513.9375 Q321.2344,514.8281 320.0391,515.3203 Q318.4688,516 316.5469,516 Q314.2969,516 312.4922,515.1094 Q311.0391,514.4063 310.0078,512.8828 Q309,511.3594 309,509.5547 L309,507.9141 Q309,506.0391 309.8906,504.3984 Q310.8047,502.7578 312.375,501.8906 Q313.9688,501 315.75,501 Q316.8281,501 317.7656,501.375 Q318.7031,501.75 319.5,502.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="117" x="337.5" y="515.1152">TestValidation</text><line style="stroke:#A80036;stroke-width:2.25;" x1="295.5" x2="457.5" y1="531.75" y2="531.75"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="78" x="303" y="554.8784">-createdAt</text><!--MD5=[7421f545a0d8420c5bec41e74b387d9c]
+class Employee--><rect codeLine="20" fill="#FEFECE" filter="url(#fzd1we6k6jn5k)" height="205.2773" id="Employee" style="stroke:#A80036;stroke-width:2.25;" width="144" x="883.5" y="10.5"/><ellipse cx="912.075" cy="34.5" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M915.075,29.25 Q915.3797,28.5 915.7312,28.125 Q916.0828,27.75 916.4812,27.75 Q917.1844,27.75 917.6297,28.1719 Q918.075,28.5938 918.075,29.5781 L918.075,31.9219 Q918.075,32.9063 917.6531,33.3281 Q917.2312,33.75 916.575,33.75 Q915.9891,33.75 915.6141,33.4922 Q915.2391,33.2344 915.075,32.5547 Q915.0047,32.0859 914.7469,31.8281 Q914.2781,31.3359 913.4344,31.0547 Q912.5906,30.75 911.7469,30.75 Q910.6922,30.75 909.8016,31.1719 Q908.9344,31.5938 908.2547,32.5313 Q907.575,33.4688 907.575,34.7578 L907.575,36.1406 Q907.575,37.6875 908.8406,38.7188 Q910.1062,39.75 912.3562,39.75 Q913.6922,39.75 914.6297,39.4453 Q915.1687,39.2813 915.7781,38.7422 Q916.1766,38.4375 916.3875,38.3438 Q916.5984,38.25 916.8562,38.25 Q917.3484,38.25 917.7,38.6484 Q918.075,39.0234 918.075,39.5625 Q918.075,40.0781 917.5594,40.6875 Q916.8094,41.5781 915.6141,42.0703 Q914.0437,42.75 912.1219,42.75 Q909.8719,42.75 908.0672,41.8594 Q906.6141,41.1563 905.5828,39.6328 Q904.575,38.1094 904.575,36.3047 L904.575,34.6641 Q904.575,32.7891 905.4656,31.1484 Q906.3797,29.5078 907.95,28.6406 Q909.5437,27.75 911.325,27.75 Q912.4031,27.75 913.3406,28.125 Q914.2781,28.5 915.075,29.25 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="82.5" x="934.425" y="41.8652">Employee</text><line style="stroke:#A80036;stroke-width:2.25;" x1="885" x2="1026" y1="58.5" y2="58.5"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="88.5" x="892.5" y="81.6284">-employeeID</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="126" x="892.5" y="102.3823">-organizationRole</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="45" x="892.5" y="123.1362">-name</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="66" x="892.5" y="143.8901">-address</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="106.5" x="892.5" y="164.644">-phoneNumber</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="42" x="892.5" y="185.3979">-email</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="33" x="892.5" y="206.1519">-soc</text><!--MD5=[052425de1c0eb6cc1c1b48342b0bb88f]
+class LaboratoryCoordinator--><rect codeLine="30" fill="#FEFECE" filter="url(#fzd1we6k6jn5k)" height="205.2773" id="LaboratoryCoordinator" style="stroke:#A80036;stroke-width:2.25;" width="232.5" x="668.25" y="421.5"/><ellipse cx="690.75" cy="445.5" fill="#ADD1B2" rx="16.5" ry="16.5" style="stroke:#A80036;stroke-width:1.5;"/><path d="M693.75,440.25 Q694.0547,439.5 694.4063,439.125 Q694.7578,438.75 695.1563,438.75 Q695.8594,438.75 696.3047,439.1719 Q696.75,439.5938 696.75,440.5781 L696.75,442.9219 Q696.75,443.9063 696.3281,444.3281 Q695.9063,444.75 695.25,444.75 Q694.6641,444.75 694.2891,444.4922 Q693.9141,444.2344 693.75,443.5547 Q693.6797,443.0859 693.4219,442.8281 Q692.9531,442.3359 692.1094,442.0547 Q691.2656,441.75 690.4219,441.75 Q689.3672,441.75 688.4766,442.1719 Q687.6094,442.5938 686.9297,443.5313 Q686.25,444.4688 686.25,445.7578 L686.25,447.1406 Q686.25,448.6875 687.5156,449.7188 Q688.7813,450.75 691.0313,450.75 Q692.3672,450.75 693.3047,450.4453 Q693.8438,450.2813 694.4531,449.7422 Q694.8516,449.4375 695.0625,449.3438 Q695.2734,449.25 695.5313,449.25 Q696.0234,449.25 696.375,449.6484 Q696.75,450.0234 696.75,450.5625 Q696.75,451.0781 696.2344,451.6875 Q695.4844,452.5781 694.2891,453.0703 Q692.7188,453.75 690.7969,453.75 Q688.5469,453.75 686.7422,452.8594 Q685.2891,452.1563 684.2578,450.6328 Q683.25,449.1094 683.25,447.3047 L683.25,445.6641 Q683.25,443.7891 684.1406,442.1484 Q685.0547,440.5078 686.625,439.6406 Q688.2188,438.75 690,438.75 Q691.0781,438.75 692.0156,439.125 Q692.9531,439.5 693.75,440.25 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="184.5" x="711.75" y="452.8652">LaboratoryCoordinator</text><line style="stroke:#A80036;stroke-width:2.25;" x1="669.75" x2="899.25" y1="469.5" y2="469.5"/><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="88.5" x="677.25" y="492.6284">-employeeID</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="126" x="677.25" y="513.3823">-organizationRole</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="45" x="677.25" y="534.1362">-name</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="66" x="677.25" y="554.8901">-address</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="106.5" x="677.25" y="575.644">-phoneNumber</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="42" x="677.25" y="596.3979">-email</text><text fill="#000000" font-family="sans-serif" font-size="16.5" lengthAdjust="spacing" textLength="33" x="677.25" y="617.1519">-soc</text><!--MD5=[a0184b63db99e4170c08b50ca520f26e]
+link Employee to LaboratoryCoordinator--><path codeLine="40" d="M913.005,216.135 C886.8,278.67 853.29,358.605 827.07,421.185 " fill="none" id="Employee-LaboratoryCoordinator" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#000000" points="886.6011,313.1808,895.911,302.3716,887.7795,298.9637,886.6011,313.1808" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="73.5" x="903" y="314.2427">plays as</text><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="10.5" x="897.5813" y="248.2639">1</text><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="39" x="790.5933" y="404.8835">0.. 1</text><!--MD5=[d7ace9ce94145b54e26b24a174e1b7b9]
+link Employee to Company--><path codeLine="41" d="M1022.595,216.135 C1079.91,302.745 1159.305,422.73 1199.685,483.75 " fill="none" id="Employee-Company" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#000000" points="1102.1389,312.5183,1098.3279,298.7708,1090.9752,303.6364,1102.1389,312.5183" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="73.5" x="1111.5" y="314.2427">works at</text><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="7.5" x="1021.6275" y="248.2639">*</text><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="10.5" x="1181.6129" y="467.2901">1</text><!--MD5=[905c082e5fce4eb785bce914d71adcec]
+link Test to TestValidation--><path codeLine="43" d="M94.86,524.25 C145.11,524.25 230.085,524.25 293.58,524.25 " fill="none" id="Test-TestValidation" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#000000" points="147,506.5137,133.4324,502.1053,133.4324,510.9221,147,506.5137" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="102" x="153" y="514.4927">validated by</text><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="10.5" x="106.4649" y="517.6919">1</text><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="39" x="242.7377" y="545.9249">0.. 1</text><!--MD5=[b7fcc166bae4f8dc851e5c46e0013cfd]
+link TestValidation to LaboratoryCoordinator--><path codeLine="45" d="M459.06,524.25 C519.135,524.25 601.305,524.25 668.04,524.25 " fill="none" id="TestValidation-LaboratoryCoordinator" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#000000" points="511.125,506.5137,497.5574,502.1053,497.5574,510.9221,511.125,506.5137" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="112.5" x="517.125" y="514.4927">performed by</text><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="10.5" x="470.8595" y="518.9321">1</text><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="7.5" x="648.7068" y="519.3483">*</text><!--MD5=[fe28b095a1a99c1f24c8c2245ad2ba4f]
+link LaboratoryCoordinator to Test--><path codeLine="47" d="M667.83,452.43 C573.51,403.215 436.935,351.945 315.75,382.5 C231.45,403.755 144.765,457.875 94.905,492.765 " fill="none" id="LaboratoryCoordinator-Test" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#000000" points="330.7315,370.237,316.8878,366.7923,317.5069,375.5873,330.7315,370.237" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="108" x="336.75" y="378.7427">Analysed by</text><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="7.5" x="648.8525" y="440.7193">*</text><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="10.5" x="106.5209" y="478.5325">1</text><!--MD5=[ff4598600f1a685eaa9e2ec0239f9867]
+link LaboratoryCoordinator to Company--><path codeLine="48" d="M900.945,524.25 C984.39,524.25 1093.635,524.25 1161.69,524.25 " fill="none" id="LaboratoryCoordinator-Company" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#000000" points="938.25,506.5137,951.8176,510.9221,951.8176,502.1053,938.25,506.5137" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="163.5" x="959.25" y="514.4927">Overall analised by</text><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="7.5" x="912.7767" y="519.3483">*</text><text fill="#000000" font-family="sans-serif" font-size="19.5" lengthAdjust="spacing" textLength="10.5" x="1139.3203" y="518.4966">1</text><!--MD5=[abb19ed121b90d3263cb39972634ac04]
+@startuml
+'https://plantuml.com/class-diagram
+hide methods
+skinparam classAttributeIconSize 0
+skinparam nodesep 50
+skinparam ranksep 50
+
+class Company {
+-designation
+}
+
+class Test {
+-Code
+-name
+}
+
+class TestValidation {
+-createdAt
+}
+
+class Employee {
+-employeeID
+-organizationRole
+-name
+-address
+-phoneNumber
+-email
+-soc
+}
+
+class LaboratoryCoordinator {
+-employeeID
+-organizationRole
+-name
+-address
+-phoneNumber
+-email
+-soc
+}
+
+Employee "1" - - - "0.. 1" LaboratoryCoordinator : plays as >
+Employee "*" - - "1" Company : works at >
+
+Test "1" - "0.. 1" TestValidation :  validated by >
+
+TestValidation "1" - "*" LaboratoryCoordinator : performed by >
+
+LaboratoryCoordinator "*" - "1" Test: Analysed by <
+LaboratoryCoordinator "*" - "1" Company: Overall analised by <
+@enduml
+
+@startuml
+hide methods
+skinparam classAttributeIconSize 0
+skinparam nodesep 50
+skinparam ranksep 50
+
+class Company {
+-designation
+}
+
+class Test {
+-Code
+-name
+}
+
+class TestValidation {
+-createdAt
+}
+
+class Employee {
+-employeeID
+-organizationRole
+-name
+-address
+-phoneNumber
+-email
+-soc
+}
+
+class LaboratoryCoordinator {
+-employeeID
+-organizationRole
+-name
+-address
+-phoneNumber
+-email
+-soc
+}
+
+Employee "1" - - - "0.. 1" LaboratoryCoordinator : plays as >
+Employee "*" - - "1" Company : works at >
+
+Test "1" - "0.. 1" TestValidation :  validated by >
+
+TestValidation "1" - "*" LaboratoryCoordinator : performed by >
+
+LaboratoryCoordinator "*" - "1" Test: Analysed by <
+LaboratoryCoordinator "*" - "1" Company: Overall analised by <
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 10:25:05 GMT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

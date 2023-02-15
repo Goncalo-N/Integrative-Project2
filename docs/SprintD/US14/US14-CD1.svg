@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="442px" preserveAspectRatio="none" style="width:592px;height:442px;" version="1.1" viewBox="0 0 592 442" width="592px" zoomAndPan="magnify"><defs><filter height="300%" id="f1ufu6xo8d44jv" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[7d96fd15f3014691d2fcaf89c5791e2a]
+class SpecialistDoctor--><rect codeLine="5" fill="#FEFECE" filter="url(#f1ufu6xo8d44jv)" height="158.6875" id="SpecialistDoctor" style="stroke:#A80036;stroke-width:1.5;" width="130" x="259" y="270"/><ellipse cx="277.6" cy="286" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M279.6,282.5 Q279.8031,282 280.0375,281.75 Q280.2719,281.5 280.5375,281.5 Q281.0063,281.5 281.3031,281.7813 Q281.6,282.0625 281.6,282.7188 L281.6,284.2813 Q281.6,284.9375 281.3188,285.2188 Q281.0375,285.5 280.6,285.5 Q280.2094,285.5 279.9594,285.3281 Q279.7094,285.1563 279.6,284.7031 Q279.5531,284.3906 279.3813,284.2188 Q279.0688,283.8906 278.5063,283.7031 Q277.9438,283.5 277.3813,283.5 Q276.6781,283.5 276.0844,283.7813 Q275.5063,284.0625 275.0531,284.6875 Q274.6,285.3125 274.6,286.1719 L274.6,287.0938 Q274.6,288.125 275.4438,288.8125 Q276.2875,289.5 277.7875,289.5 Q278.6781,289.5 279.3031,289.2969 Q279.6625,289.1875 280.0688,288.8281 Q280.3344,288.625 280.475,288.5625 Q280.6156,288.5 280.7875,288.5 Q281.1156,288.5 281.35,288.7656 Q281.6,289.0156 281.6,289.375 Q281.6,289.7188 281.2563,290.125 Q280.7563,290.7188 279.9594,291.0469 Q278.9125,291.5 277.6313,291.5 Q276.1313,291.5 274.9281,290.9063 Q273.9594,290.4375 273.2719,289.4219 Q272.6,288.4063 272.6,287.2031 L272.6,286.1094 Q272.6,284.8594 273.1938,283.7656 Q273.8031,282.6719 274.85,282.0938 Q275.9125,281.5 277.1,281.5 Q277.8188,281.5 278.4438,281.75 Q279.0688,282 279.6,282.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="90" x="292.4" y="290.9102">SpecialistDoctor</text><line style="stroke:#A80036;stroke-width:1.5;" x1="260" x2="388" y1="302" y2="302"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="90" x="265" y="317.4189">-String EmployeeID</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="117" x="265" y="331.2549">-String OrgazinationRole</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="61" x="265" y="345.0908">-String name</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="69" x="265" y="358.9268">-String adress</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="85" x="265" y="372.7627">-int PhoneNumber</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="265" y="386.5986">-String Email</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="53" x="265" y="400.4346">-String soc</text><line style="stroke:#A80036;stroke-width:1.5;" x1="260" x2="388" y1="406.8516" y2="406.8516"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="118" x="265" y="422.2705">createRepDiag(testDTO)</text><!--MD5=[f409111dc641cbbc3b2ad615770b2686]
+class CreateRepDiagUI--><rect codeLine="16" fill="#FEFECE" filter="url(#f1ufu6xo8d44jv)" height="48" id="CreateRepDiagUI" style="stroke:#A80036;stroke-width:1.5;" width="130" x="259" y="7"/><ellipse cx="274" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M276,19.5 Q276.2031,19 276.4375,18.75 Q276.6719,18.5 276.9375,18.5 Q277.4063,18.5 277.7031,18.7813 Q278,19.0625 278,19.7188 L278,21.2813 Q278,21.9375 277.7188,22.2188 Q277.4375,22.5 277,22.5 Q276.6094,22.5 276.3594,22.3281 Q276.1094,22.1563 276,21.7031 Q275.9531,21.3906 275.7813,21.2188 Q275.4688,20.8906 274.9063,20.7031 Q274.3438,20.5 273.7813,20.5 Q273.0781,20.5 272.4844,20.7813 Q271.9063,21.0625 271.4531,21.6875 Q271,22.3125 271,23.1719 L271,24.0938 Q271,25.125 271.8438,25.8125 Q272.6875,26.5 274.1875,26.5 Q275.0781,26.5 275.7031,26.2969 Q276.0625,26.1875 276.4688,25.8281 Q276.7344,25.625 276.875,25.5625 Q277.0156,25.5 277.1875,25.5 Q277.5156,25.5 277.75,25.7656 Q278,26.0156 278,26.375 Q278,26.7188 277.6563,27.125 Q277.1563,27.7188 276.3594,28.0469 Q275.3125,28.5 274.0313,28.5 Q272.5313,28.5 271.3281,27.9063 Q270.3594,27.4375 269.6719,26.4219 Q269,25.4063 269,24.2031 L269,23.1094 Q269,21.8594 269.5938,20.7656 Q270.2031,19.6719 271.25,19.0938 Q272.3125,18.5 273.5,18.5 Q274.2188,18.5 274.8438,18.75 Q275.4688,19 276,19.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="98" x="288" y="27.9102">CreateRepDiagUI</text><line style="stroke:#A80036;stroke-width:1.5;" x1="260" x2="388" y1="39" y2="39"/><line style="stroke:#A80036;stroke-width:1.5;" x1="260" x2="388" y1="47" y2="47"/><!--MD5=[b7dd1dc2193b4578c09ac30f0015db61]
+class CreateRepDiagController--><rect codeLine="20" fill="#FEFECE" filter="url(#f1ufu6xo8d44jv)" height="75.6719" id="CreateRepDiagController" style="stroke:#A80036;stroke-width:1.5;" width="172" x="238" y="116"/><ellipse cx="253" cy="132" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M255,128.5 Q255.2031,128 255.4375,127.75 Q255.6719,127.5 255.9375,127.5 Q256.4063,127.5 256.7031,127.7813 Q257,128.0625 257,128.7188 L257,130.2813 Q257,130.9375 256.7188,131.2188 Q256.4375,131.5 256,131.5 Q255.6094,131.5 255.3594,131.3281 Q255.1094,131.1563 255,130.7031 Q254.9531,130.3906 254.7813,130.2188 Q254.4688,129.8906 253.9063,129.7031 Q253.3438,129.5 252.7813,129.5 Q252.0781,129.5 251.4844,129.7813 Q250.9063,130.0625 250.4531,130.6875 Q250,131.3125 250,132.1719 L250,133.0938 Q250,134.125 250.8438,134.8125 Q251.6875,135.5 253.1875,135.5 Q254.0781,135.5 254.7031,135.2969 Q255.0625,135.1875 255.4688,134.8281 Q255.7344,134.625 255.875,134.5625 Q256.0156,134.5 256.1875,134.5 Q256.5156,134.5 256.75,134.7656 Q257,135.0156 257,135.375 Q257,135.7188 256.6563,136.125 Q256.1563,136.7188 255.3594,137.0469 Q254.3125,137.5 253.0313,137.5 Q251.5313,137.5 250.3281,136.9063 Q249.3594,136.4375 248.6719,135.4219 Q248,134.4063 248,133.2031 L248,132.1094 Q248,130.8594 248.5938,129.7656 Q249.2031,128.6719 250.25,128.0938 Q251.3125,127.5 252.5,127.5 Q253.2188,127.5 253.8438,127.75 Q254.4688,128 255,128.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="140" x="267" y="136.9102">CreateRepDiagController</text><line style="stroke:#A80036;stroke-width:1.5;" x1="239" x2="409" y1="148" y2="148"/><line style="stroke:#A80036;stroke-width:1.5;" x1="239" x2="409" y1="156" y2="156"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="118" x="244" y="171.4189">createRepDiag(testDTO)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="244" y="185.2549">saveRepDiag()</text><!--MD5=[02e4b9b7573f1156f41e60aa5b4e25a4]
+class Company--><rect codeLine="25" fill="#FEFECE" filter="url(#f1ufu6xo8d44jv)" height="103.3438" id="Company" style="stroke:#A80036;stroke-width:1.5;" width="176" x="7" y="298"/><ellipse cx="64.25" cy="314" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M66.25,310.5 Q66.4531,310 66.6875,309.75 Q66.9219,309.5 67.1875,309.5 Q67.6563,309.5 67.9531,309.7813 Q68.25,310.0625 68.25,310.7188 L68.25,312.2813 Q68.25,312.9375 67.9688,313.2188 Q67.6875,313.5 67.25,313.5 Q66.8594,313.5 66.6094,313.3281 Q66.3594,313.1563 66.25,312.7031 Q66.2031,312.3906 66.0313,312.2188 Q65.7188,311.8906 65.1563,311.7031 Q64.5938,311.5 64.0313,311.5 Q63.3281,311.5 62.7344,311.7813 Q62.1563,312.0625 61.7031,312.6875 Q61.25,313.3125 61.25,314.1719 L61.25,315.0938 Q61.25,316.125 62.0938,316.8125 Q62.9375,317.5 64.4375,317.5 Q65.3281,317.5 65.9531,317.2969 Q66.3125,317.1875 66.7188,316.8281 Q66.9844,316.625 67.125,316.5625 Q67.2656,316.5 67.4375,316.5 Q67.7656,316.5 68,316.7656 Q68.25,317.0156 68.25,317.375 Q68.25,317.7188 67.9063,318.125 Q67.4063,318.7188 66.6094,319.0469 Q65.5625,319.5 64.2813,319.5 Q62.7813,319.5 61.5781,318.9063 Q60.6094,318.4375 59.9219,317.4219 Q59.25,316.4063 59.25,315.2031 L59.25,314.1094 Q59.25,312.8594 59.8438,311.7656 Q60.4531,310.6719 61.5,310.0938 Q62.5625,309.5 63.75,309.5 Q64.4688,309.5 65.0938,309.75 Q65.7188,310 66.25,310.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="53" x="84.75" y="318.9102">Company</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="182" y1="330" y2="330"/><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="182" y1="338" y2="338"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="136" x="13" y="353.4189">getTestListReadyToReport()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="164" x="13" y="367.2549">repDiag= createRepDiag(testDTO)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="109" x="13" y="381.0908">validateRepDiag(code)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="96" x="13" y="394.9268">saveRepDiag(code)</text><!--MD5=[c0dfb5c4f412de0d50142694aa4b81c0]
+class RepDiag--><rect codeLine="33" fill="#FEFECE" filter="url(#f1ufu6xo8d44jv)" height="131.0156" id="RepDiag" style="stroke:#A80036;stroke-width:1.5;" width="123" x="455.5" y="284"/><ellipse cx="489.4" cy="300" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M491.4,296.5 Q491.6031,296 491.8375,295.75 Q492.0719,295.5 492.3375,295.5 Q492.8063,295.5 493.1031,295.7813 Q493.4,296.0625 493.4,296.7188 L493.4,298.2813 Q493.4,298.9375 493.1188,299.2188 Q492.8375,299.5 492.4,299.5 Q492.0094,299.5 491.7594,299.3281 Q491.5094,299.1563 491.4,298.7031 Q491.3531,298.3906 491.1813,298.2188 Q490.8688,297.8906 490.3063,297.7031 Q489.7438,297.5 489.1813,297.5 Q488.4781,297.5 487.8844,297.7813 Q487.3063,298.0625 486.8531,298.6875 Q486.4,299.3125 486.4,300.1719 L486.4,301.0938 Q486.4,302.125 487.2438,302.8125 Q488.0875,303.5 489.5875,303.5 Q490.4781,303.5 491.1031,303.2969 Q491.4625,303.1875 491.8688,302.8281 Q492.1344,302.625 492.275,302.5625 Q492.4156,302.5 492.5875,302.5 Q492.9156,302.5 493.15,302.7656 Q493.4,303.0156 493.4,303.375 Q493.4,303.7188 493.0563,304.125 Q492.5563,304.7188 491.7594,305.0469 Q490.7125,305.5 489.4313,305.5 Q487.9313,305.5 486.7281,304.9063 Q485.7594,304.4375 485.0719,303.4219 Q484.4,302.4063 484.4,301.2031 L484.4,300.1094 Q484.4,298.8594 484.9938,297.7656 Q485.6031,296.6719 486.65,296.0938 Q487.7125,295.5 488.9,295.5 Q489.6188,295.5 490.2438,295.75 Q490.8688,296 491.4,296.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="49" x="507.6" y="304.9102">RepDiag</text><line style="stroke:#A80036;stroke-width:1.5;" x1="456.5" x2="577.5" y1="316" y2="316"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="56" x="461.5" y="331.4189">-String date</text><line style="stroke:#A80036;stroke-width:1.5;" x1="456.5" x2="577.5" y1="337.8359" y2="337.8359"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="78" x="461.5" y="353.2549">create(testDTO)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="461.5" y="367.0908">code= getCode()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="111" x="461.5" y="380.9268">checkDuplicates(code)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="109" x="461.5" y="394.7627">validateRepDiag(code)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="90" x="461.5" y="408.5986">addRepDiag(code)</text><!--MD5=[6e29a19959890120b56578598c74f327]
+link CreateRepDiagUI to CreateRepDiagController--><path codeLine="42" d="M324,55.04 C324,70.71 324,91.91 324,110.58 " fill="none" id="CreateRepDiagUI-to-CreateRepDiagController" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="324,115.77,328,106.77,324,110.77,320,106.77,324,115.77" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[18b3ab488544327edff912498613ebfb]
+link CreateRepDiagController to Company--><path codeLine="44" d="M260.75,192.07 C246.58,201.27 231.93,211.51 219,222 C192.25,243.7 165.17,270.63 143.17,294.06 " fill="none" id="CreateRepDiagController-to-Company" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="139.69,297.79,148.7556,293.941,143.1021,294.1352,142.9079,288.4817,139.69,297.79" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[6ebe3de5794b0eb925cf9746dd586914]
+link CreateRepDiagController to RepDiag--><path codeLine="45" d="M361.21,192.31 C386.79,217.95 421.44,252.69 451.57,282.9 " fill="none" id="CreateRepDiagController-to-RepDiag" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="455.22,286.56,451.6845,277.3676,451.6845,283.0245,446.0276,283.0245,455.22,286.56" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[91084da58578357101acc0f3118a25f3]
+link CreateRepDiagController to SpecialistDoctor--><path codeLine="46" d="M324,192.31 C324,212.9 324,239.36 324,264.62 " fill="none" id="CreateRepDiagController-to-SpecialistDoctor" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="324,269.66,328,260.66,324,264.66,320,260.66,324,269.66" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[137816425ceb0c0d2300eee5a01b984a]
+link Company to SpecialistDoctor--><path codeLine="48" d="M183.21,349.5 C206.64,349.5 231.62,349.5 253.93,349.5 " fill="none" id="Company-to-SpecialistDoctor" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="258.95,349.5,249.95,345.5,253.95,349.5,249.95,353.5,258.95,349.5" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="39" x="201.5" y="342.9951">Knows</text><!--MD5=[8e1bff1857c5f7ba9f02b2544614468d]
+link SpecialistDoctor to RepDiag--><path codeLine="49" d="M389.07,349.5 C408.85,349.5 430.59,349.5 450.46,349.5 " fill="none" id="SpecialistDoctor-to-RepDiag" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="455.47,349.5,446.47,345.5,450.47,349.5,446.47,353.5,455.47,349.5" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="407.25" y="342.9951">Does</text><!--MD5=[fadc316ca3aac1e5fe3f0ec753d31b43]
+link Company to RepDiag--><path codeLine="50" d="M141.7,297.77 C165.03,275.77 195.16,252.55 227.5,241 C304.63,213.45 392.66,257.29 451.2,297.2 " fill="none" id="Company-to-RepDiag" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="455.37,300.07,450.2395,291.663,451.2565,297.2277,445.6918,298.2446,455.37,300.07" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="35" x="228.5" y="236.4951">Saves</text><!--MD5=[54680bf6d9e00d6b90e62db7f4350539]
+@startuml
+'https://plantuml.com/class-diagram
+
+skinparam classAttributeIconSize 0
+
+class SpecialistDoctor {
+-String EmployeeID
+-String OrgazinationRole
+-String name
+-String adress
+-int PhoneNumber
+-String Email
+-String soc
+createRepDiag(testDTO)
+}
+
+class CreateRepDiagUI{
+
+}
+
+class CreateRepDiagController {
+createRepDiag(testDTO)
+saveRepDiag()
+}
+
+class Company {
+getTestListReadyToReport()
+repDiag= createRepDiag(testDTO)
+validateRepDiag(code)
+saveRepDiag(code)
+}
+
+
+class RepDiag {
+-String date
+create(testDTO)
+code= getCode()
+checkDuplicates(code)
+validateRepDiag(code)
+addRepDiag(code)
+}
+
+CreateRepDiagUI - -> CreateRepDiagController
+
+CreateRepDiagController ..> Company
+CreateRepDiagController ..> RepDiag
+CreateRepDiagController ..> SpecialistDoctor
+
+Company -> SpecialistDoctor: Knows
+SpecialistDoctor -> RepDiag: Does
+Company -> RepDiag: Saves
+
+@enduml
+
+@startuml
+
+skinparam classAttributeIconSize 0
+
+class SpecialistDoctor {
+-String EmployeeID
+-String OrgazinationRole
+-String name
+-String adress
+-int PhoneNumber
+-String Email
+-String soc
+createRepDiag(testDTO)
+}
+
+class CreateRepDiagUI{
+
+}
+
+class CreateRepDiagController {
+createRepDiag(testDTO)
+saveRepDiag()
+}
+
+class Company {
+getTestListReadyToReport()
+repDiag= createRepDiag(testDTO)
+validateRepDiag(code)
+saveRepDiag(code)
+}
+
+
+class RepDiag {
+-String date
+create(testDTO)
+code= getCode()
+checkDuplicates(code)
+validateRepDiag(code)
+addRepDiag(code)
+}
+
+CreateRepDiagUI - -> CreateRepDiagController
+
+CreateRepDiagController ..> Company
+CreateRepDiagController ..> RepDiag
+CreateRepDiagController ..> SpecialistDoctor
+
+Company -> SpecialistDoctor: Knows
+SpecialistDoctor -> RepDiag: Does
+Company -> RepDiag: Saves
+
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 10:25:05 GMT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

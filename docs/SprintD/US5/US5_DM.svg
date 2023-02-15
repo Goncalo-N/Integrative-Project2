@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="603px" preserveAspectRatio="none" style="width:1333px;height:603px;" version="1.1" viewBox="0 0 1333 603" width="1333px" zoomAndPan="magnify"><defs><filter height="300%" id="fmmn2wcbkejxz" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[02e4b9b7573f1156f41e60aa5b4e25a4]
+class Company--><rect codeLine="7" fill="#FEFECE" filter="url(#fmmn2wcbkejxz)" height="53.8359" id="Company" style="stroke:#A80036;stroke-width:1.5;" width="85" x="1010.5" y="202"/><ellipse cx="1025.5" cy="218" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1027.5,214.5 Q1027.7031,214 1027.9375,213.75 Q1028.1719,213.5 1028.4375,213.5 Q1028.9063,213.5 1029.2031,213.7813 Q1029.5,214.0625 1029.5,214.7188 L1029.5,216.2813 Q1029.5,216.9375 1029.2188,217.2188 Q1028.9375,217.5 1028.5,217.5 Q1028.1094,217.5 1027.8594,217.3281 Q1027.6094,217.1563 1027.5,216.7031 Q1027.4531,216.3906 1027.2813,216.2188 Q1026.9688,215.8906 1026.4063,215.7031 Q1025.8438,215.5 1025.2813,215.5 Q1024.5781,215.5 1023.9844,215.7813 Q1023.4063,216.0625 1022.9531,216.6875 Q1022.5,217.3125 1022.5,218.1719 L1022.5,219.0938 Q1022.5,220.125 1023.3438,220.8125 Q1024.1875,221.5 1025.6875,221.5 Q1026.5781,221.5 1027.2031,221.2969 Q1027.5625,221.1875 1027.9688,220.8281 Q1028.2344,220.625 1028.375,220.5625 Q1028.5156,220.5 1028.6875,220.5 Q1029.0156,220.5 1029.25,220.7656 Q1029.5,221.0156 1029.5,221.375 Q1029.5,221.7188 1029.1563,222.125 Q1028.6563,222.7188 1027.8594,223.0469 Q1026.8125,223.5 1025.5313,223.5 Q1024.0313,223.5 1022.8281,222.9063 Q1021.8594,222.4375 1021.1719,221.4219 Q1020.5,220.4063 1020.5,219.2031 L1020.5,218.1094 Q1020.5,216.8594 1021.0938,215.7656 Q1021.7031,214.6719 1022.75,214.0938 Q1023.8125,213.5 1025,213.5 Q1025.7188,213.5 1026.3438,213.75 Q1026.9688,214 1027.5,214.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="53" x="1039.5" y="222.9102">Company</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1011.5" x2="1094.5" y1="234" y2="234"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="1016.5" y="249.4189">-designation</text><!--MD5=[df38be88ccee13e832d6fafd6288a4ca]
+class Test--><rect codeLine="12" fill="#FEFECE" filter="url(#fmmn2wcbkejxz)" height="67.6719" id="Test" style="stroke:#A80036;stroke-width:1.5;" width="62" x="281" y="7"/><ellipse cx="298.7" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M300.7,19.5 Q300.9031,19 301.1375,18.75 Q301.3719,18.5 301.6375,18.5 Q302.1063,18.5 302.4031,18.7813 Q302.7,19.0625 302.7,19.7188 L302.7,21.2813 Q302.7,21.9375 302.4188,22.2188 Q302.1375,22.5 301.7,22.5 Q301.3094,22.5 301.0594,22.3281 Q300.8094,22.1563 300.7,21.7031 Q300.6531,21.3906 300.4813,21.2188 Q300.1688,20.8906 299.6063,20.7031 Q299.0438,20.5 298.4813,20.5 Q297.7781,20.5 297.1844,20.7813 Q296.6063,21.0625 296.1531,21.6875 Q295.7,22.3125 295.7,23.1719 L295.7,24.0938 Q295.7,25.125 296.5438,25.8125 Q297.3875,26.5 298.8875,26.5 Q299.7781,26.5 300.4031,26.2969 Q300.7625,26.1875 301.1688,25.8281 Q301.4344,25.625 301.575,25.5625 Q301.7156,25.5 301.8875,25.5 Q302.2156,25.5 302.45,25.7656 Q302.7,26.0156 302.7,26.375 Q302.7,26.7188 302.3563,27.125 Q301.8563,27.7188 301.0594,28.0469 Q300.0125,28.5 298.7313,28.5 Q297.2313,28.5 296.0281,27.9063 Q295.0594,27.4375 294.3719,26.4219 Q293.7,25.4063 293.7,24.2031 L293.7,23.1094 Q293.7,21.8594 294.2938,20.7656 Q294.9031,19.6719 295.95,19.0938 Q297.0125,18.5 298.2,18.5 Q298.9188,18.5 299.5438,18.75 Q300.1688,19 300.7,19.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="313.3" y="27.9102">Test</text><line style="stroke:#A80036;stroke-width:1.5;" x1="282" x2="342" y1="39" y2="39"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="287" y="54.4189">-testCode</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="50" x="287" y="68.2549">-NHSCode</text><!--MD5=[4e608140b854dae633589343bce77383]
+class TestParameterResult--><rect codeLine="17" fill="#FEFECE" filter="url(#fmmn2wcbkejxz)" height="67.6719" id="TestParameterResult" style="stroke:#A80036;stroke-width:1.5;" width="150" x="288" y="195"/><ellipse cx="303" cy="211" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M305,207.5 Q305.2031,207 305.4375,206.75 Q305.6719,206.5 305.9375,206.5 Q306.4063,206.5 306.7031,206.7813 Q307,207.0625 307,207.7188 L307,209.2813 Q307,209.9375 306.7188,210.2188 Q306.4375,210.5 306,210.5 Q305.6094,210.5 305.3594,210.3281 Q305.1094,210.1563 305,209.7031 Q304.9531,209.3906 304.7813,209.2188 Q304.4688,208.8906 303.9063,208.7031 Q303.3438,208.5 302.7813,208.5 Q302.0781,208.5 301.4844,208.7813 Q300.9063,209.0625 300.4531,209.6875 Q300,210.3125 300,211.1719 L300,212.0938 Q300,213.125 300.8438,213.8125 Q301.6875,214.5 303.1875,214.5 Q304.0781,214.5 304.7031,214.2969 Q305.0625,214.1875 305.4688,213.8281 Q305.7344,213.625 305.875,213.5625 Q306.0156,213.5 306.1875,213.5 Q306.5156,213.5 306.75,213.7656 Q307,214.0156 307,214.375 Q307,214.7188 306.6563,215.125 Q306.1563,215.7188 305.3594,216.0469 Q304.3125,216.5 303.0313,216.5 Q301.5313,216.5 300.3281,215.9063 Q299.3594,215.4375 298.6719,214.4219 Q298,213.4063 298,212.2031 L298,211.1094 Q298,209.8594 298.5938,208.7656 Q299.2031,207.6719 300.25,207.0938 Q301.3125,206.5 302.5,206.5 Q303.2188,206.5 303.8438,206.75 Q304.4688,207 305,207.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="118" x="317" y="215.9102">TestParameterResult</text><line style="stroke:#A80036;stroke-width:1.5;" x1="289" x2="437" y1="227" y2="227"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="294" y="242.4189">-createdAt</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="30" x="294" y="256.2549">-value</text><!--MD5=[b374255986abe8788200fa8596627276]
+class BarCode--><rect codeLine="22" fill="#FEFECE" filter="url(#fmmn2wcbkejxz)" height="53.8359" id="BarCode" style="stroke:#A80036;stroke-width:1.5;" width="81" x="171.5" y="372.5"/><ellipse cx="186.5" cy="388.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M188.5,385 Q188.7031,384.5 188.9375,384.25 Q189.1719,384 189.4375,384 Q189.9063,384 190.2031,384.2813 Q190.5,384.5625 190.5,385.2188 L190.5,386.7813 Q190.5,387.4375 190.2188,387.7188 Q189.9375,388 189.5,388 Q189.1094,388 188.8594,387.8281 Q188.6094,387.6563 188.5,387.2031 Q188.4531,386.8906 188.2813,386.7188 Q187.9688,386.3906 187.4063,386.2031 Q186.8438,386 186.2813,386 Q185.5781,386 184.9844,386.2813 Q184.4063,386.5625 183.9531,387.1875 Q183.5,387.8125 183.5,388.6719 L183.5,389.5938 Q183.5,390.625 184.3438,391.3125 Q185.1875,392 186.6875,392 Q187.5781,392 188.2031,391.7969 Q188.5625,391.6875 188.9688,391.3281 Q189.2344,391.125 189.375,391.0625 Q189.5156,391 189.6875,391 Q190.0156,391 190.25,391.2656 Q190.5,391.5156 190.5,391.875 Q190.5,392.2188 190.1563,392.625 Q189.6563,393.2188 188.8594,393.5469 Q187.8125,394 186.5313,394 Q185.0313,394 183.8281,393.4063 Q182.8594,392.9375 182.1719,391.9219 Q181.5,390.9063 181.5,389.7031 L181.5,388.6094 Q181.5,387.3594 182.0938,386.2656 Q182.7031,385.1719 183.75,384.5938 Q184.8125,384 186,384 Q186.7188,384 187.3438,384.25 Q187.9688,384.5 188.5,385 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="49" x="200.5" y="393.4102">BarCode</text><line style="stroke:#A80036;stroke-width:1.5;" x1="172.5" x2="251.5" y1="404.5" y2="404.5"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="29" x="177.5" y="419.9189">-Code</text><!--MD5=[aeb3272166074d8737a70b61b1e71682]
+class TestType--><rect codeLine="27" fill="#FEFECE" filter="url(#fmmn2wcbkejxz)" height="53.8359" id="TestType" style="stroke:#A80036;stroke-width:1.5;" width="82" x="1012" y="372.5"/><ellipse cx="1027" cy="388.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1029,385 Q1029.2031,384.5 1029.4375,384.25 Q1029.6719,384 1029.9375,384 Q1030.4063,384 1030.7031,384.2813 Q1031,384.5625 1031,385.2188 L1031,386.7813 Q1031,387.4375 1030.7188,387.7188 Q1030.4375,388 1030,388 Q1029.6094,388 1029.3594,387.8281 Q1029.1094,387.6563 1029,387.2031 Q1028.9531,386.8906 1028.7813,386.7188 Q1028.4688,386.3906 1027.9063,386.2031 Q1027.3438,386 1026.7813,386 Q1026.0781,386 1025.4844,386.2813 Q1024.9063,386.5625 1024.4531,387.1875 Q1024,387.8125 1024,388.6719 L1024,389.5938 Q1024,390.625 1024.8438,391.3125 Q1025.6875,392 1027.1875,392 Q1028.0781,392 1028.7031,391.7969 Q1029.0625,391.6875 1029.4688,391.3281 Q1029.7344,391.125 1029.875,391.0625 Q1030.0156,391 1030.1875,391 Q1030.5156,391 1030.75,391.2656 Q1031,391.5156 1031,391.875 Q1031,392.2188 1030.6563,392.625 Q1030.1563,393.2188 1029.3594,393.5469 Q1028.3125,394 1027.0313,394 Q1025.5313,394 1024.3281,393.4063 Q1023.3594,392.9375 1022.6719,391.9219 Q1022,390.9063 1022,389.7031 L1022,388.6094 Q1022,387.3594 1022.5938,386.2656 Q1023.2031,385.1719 1024.25,384.5938 Q1025.3125,384 1026.5,384 Q1027.2188,384 1027.8438,384.25 Q1028.4688,384.5 1029,385 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="50" x="1041" y="393.4102">TestType</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1013" x2="1093" y1="404.5" y2="404.5"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="1018" y="419.9189">-designation</text><!--MD5=[01931d41e78f8996acd44f6f0fd8de28]
+class MedicalLabTechnician--><rect codeLine="31" fill="#FEFECE" filter="url(#fmmn2wcbkejxz)" height="136.8516" id="MedicalLabTechnician" style="stroke:#A80036;stroke-width:1.5;" width="155" x="540.5" y="331"/><ellipse cx="555.5" cy="347" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M557.5,343.5 Q557.7031,343 557.9375,342.75 Q558.1719,342.5 558.4375,342.5 Q558.9063,342.5 559.2031,342.7813 Q559.5,343.0625 559.5,343.7188 L559.5,345.2813 Q559.5,345.9375 559.2188,346.2188 Q558.9375,346.5 558.5,346.5 Q558.1094,346.5 557.8594,346.3281 Q557.6094,346.1563 557.5,345.7031 Q557.4531,345.3906 557.2813,345.2188 Q556.9688,344.8906 556.4063,344.7031 Q555.8438,344.5 555.2813,344.5 Q554.5781,344.5 553.9844,344.7813 Q553.4063,345.0625 552.9531,345.6875 Q552.5,346.3125 552.5,347.1719 L552.5,348.0938 Q552.5,349.125 553.3438,349.8125 Q554.1875,350.5 555.6875,350.5 Q556.5781,350.5 557.2031,350.2969 Q557.5625,350.1875 557.9688,349.8281 Q558.2344,349.625 558.375,349.5625 Q558.5156,349.5 558.6875,349.5 Q559.0156,349.5 559.25,349.7656 Q559.5,350.0156 559.5,350.375 Q559.5,350.7188 559.1563,351.125 Q558.6563,351.7188 557.8594,352.0469 Q556.8125,352.5 555.5313,352.5 Q554.0313,352.5 552.8281,351.9063 Q551.8594,351.4375 551.1719,350.4219 Q550.5,349.4063 550.5,348.2031 L550.5,347.1094 Q550.5,345.8594 551.0938,344.7656 Q551.7031,343.6719 552.75,343.0938 Q553.8125,342.5 555,342.5 Q555.7188,342.5 556.3438,342.75 Q556.9688,343 557.5,343.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="123" x="569.5" y="351.9102">MedicalLabTechnician</text><line style="stroke:#A80036;stroke-width:1.5;" x1="541.5" x2="694.5" y1="363" y2="363"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="546.5" y="378.4189">-employeeID</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="546.5" y="392.2549">-organizationRole</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="30" x="546.5" y="406.0908">-name</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="546.5" y="419.9268">-address</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="71" x="546.5" y="433.7627">-phoneNumber</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="28" x="546.5" y="447.5986">-email</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="22" x="546.5" y="461.4346">-soc</text><!--MD5=[9681492165142af2a4a3a169d90ee8d4]
+class Sample--><rect codeLine="43" fill="#FEFECE" filter="url(#fmmn2wcbkejxz)" height="53.8359" id="Sample" style="stroke:#A80036;stroke-width:1.5;" width="75" x="580.5" y="202"/><ellipse cx="595.5" cy="218" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M597.5,214.5 Q597.7031,214 597.9375,213.75 Q598.1719,213.5 598.4375,213.5 Q598.9063,213.5 599.2031,213.7813 Q599.5,214.0625 599.5,214.7188 L599.5,216.2813 Q599.5,216.9375 599.2188,217.2188 Q598.9375,217.5 598.5,217.5 Q598.1094,217.5 597.8594,217.3281 Q597.6094,217.1563 597.5,216.7031 Q597.4531,216.3906 597.2813,216.2188 Q596.9688,215.8906 596.4063,215.7031 Q595.8438,215.5 595.2813,215.5 Q594.5781,215.5 593.9844,215.7813 Q593.4063,216.0625 592.9531,216.6875 Q592.5,217.3125 592.5,218.1719 L592.5,219.0938 Q592.5,220.125 593.3438,220.8125 Q594.1875,221.5 595.6875,221.5 Q596.5781,221.5 597.2031,221.2969 Q597.5625,221.1875 597.9688,220.8281 Q598.2344,220.625 598.375,220.5625 Q598.5156,220.5 598.6875,220.5 Q599.0156,220.5 599.25,220.7656 Q599.5,221.0156 599.5,221.375 Q599.5,221.7188 599.1563,222.125 Q598.6563,222.7188 597.8594,223.0469 Q596.8125,223.5 595.5313,223.5 Q594.0313,223.5 592.8281,222.9063 Q591.8594,222.4375 591.1719,221.4219 Q590.5,220.4063 590.5,219.2031 L590.5,218.1094 Q590.5,216.8594 591.0938,215.7656 Q591.7031,214.6719 592.75,214.0938 Q593.8125,213.5 595,213.5 Q595.7188,213.5 596.3438,213.75 Q596.9688,214 597.5,214.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="43" x="609.5" y="222.9102">Sample</text><line style="stroke:#A80036;stroke-width:1.5;" x1="581.5" x2="654.5" y1="234" y2="234"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="586.5" y="249.4189">-createdAt</text><!--MD5=[0c27e179cfc1ecadd76b03e464a492e9]
+class SampleCollectionMethod--><rect codeLine="47" fill="#FEFECE" filter="url(#fmmn2wcbkejxz)" height="53.8359" id="SampleCollectionMethod" style="stroke:#A80036;stroke-width:1.5;" width="170" x="886" y="536"/><ellipse cx="901" cy="552" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M903,548.5 Q903.2031,548 903.4375,547.75 Q903.6719,547.5 903.9375,547.5 Q904.4063,547.5 904.7031,547.7813 Q905,548.0625 905,548.7188 L905,550.2813 Q905,550.9375 904.7188,551.2188 Q904.4375,551.5 904,551.5 Q903.6094,551.5 903.3594,551.3281 Q903.1094,551.1563 903,550.7031 Q902.9531,550.3906 902.7813,550.2188 Q902.4688,549.8906 901.9063,549.7031 Q901.3438,549.5 900.7813,549.5 Q900.0781,549.5 899.4844,549.7813 Q898.9063,550.0625 898.4531,550.6875 Q898,551.3125 898,552.1719 L898,553.0938 Q898,554.125 898.8438,554.8125 Q899.6875,555.5 901.1875,555.5 Q902.0781,555.5 902.7031,555.2969 Q903.0625,555.1875 903.4688,554.8281 Q903.7344,554.625 903.875,554.5625 Q904.0156,554.5 904.1875,554.5 Q904.5156,554.5 904.75,554.7656 Q905,555.0156 905,555.375 Q905,555.7188 904.6563,556.125 Q904.1563,556.7188 903.3594,557.0469 Q902.3125,557.5 901.0313,557.5 Q899.5313,557.5 898.3281,556.9063 Q897.3594,556.4375 896.6719,555.4219 Q896,554.4063 896,553.2031 L896,552.1094 Q896,550.8594 896.5938,549.7656 Q897.2031,548.6719 898.25,548.0938 Q899.3125,547.5 900.5,547.5 Q901.2188,547.5 901.8438,547.75 Q902.4688,548 903,548.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="138" x="915" y="556.9102">SampleCollectionMethod</text><line style="stroke:#A80036;stroke-width:1.5;" x1="887" x2="1055" y1="568" y2="568"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="57" x="892" y="583.4189">-description</text><!--MD5=[1f6362a5c8f21d8d6a0fce68f3a92a4e]
+class Parameter--><rect fill="#FEFECE" filter="url(#fmmn2wcbkejxz)" height="40" id="Parameter" style="stroke:#A80036;stroke-width:1.5;" width="90" x="738" y="543"/><ellipse cx="753" cy="559" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M755,555.5 Q755.2031,555 755.4375,554.75 Q755.6719,554.5 755.9375,554.5 Q756.4063,554.5 756.7031,554.7813 Q757,555.0625 757,555.7188 L757,557.2813 Q757,557.9375 756.7188,558.2188 Q756.4375,558.5 756,558.5 Q755.6094,558.5 755.3594,558.3281 Q755.1094,558.1563 755,557.7031 Q754.9531,557.3906 754.7813,557.2188 Q754.4688,556.8906 753.9063,556.7031 Q753.3438,556.5 752.7813,556.5 Q752.0781,556.5 751.4844,556.7813 Q750.9063,557.0625 750.4531,557.6875 Q750,558.3125 750,559.1719 L750,560.0938 Q750,561.125 750.8438,561.8125 Q751.6875,562.5 753.1875,562.5 Q754.0781,562.5 754.7031,562.2969 Q755.0625,562.1875 755.4688,561.8281 Q755.7344,561.625 755.875,561.5625 Q756.0156,561.5 756.1875,561.5 Q756.5156,561.5 756.75,561.7656 Q757,562.0156 757,562.375 Q757,562.7188 756.6563,563.125 Q756.1563,563.7188 755.3594,564.0469 Q754.3125,564.5 753.0313,564.5 Q751.5313,564.5 750.3281,563.9063 Q749.3594,563.4375 748.6719,562.4219 Q748,561.4063 748,560.2031 L748,559.1094 Q748,557.8594 748.5938,556.7656 Q749.2031,555.6719 750.25,555.0938 Q751.3125,554.5 752.5,554.5 Q753.2188,554.5 753.8438,554.75 Q754.4688,555 755,555.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="58" x="767" y="563.9102">Parameter</text><line style="stroke:#A80036;stroke-width:1.5;" x1="739" x2="827" y1="575" y2="575"/><!--MD5=[36afb6bbd95a8ac778c4537c55a683d5]
+class ParameterCategory--><rect fill="#FEFECE" filter="url(#fmmn2wcbkejxz)" height="40" id="ParameterCategory" style="stroke:#A80036;stroke-width:1.5;" width="139" x="1106.5" y="543"/><ellipse cx="1121.5" cy="559" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1123.5,555.5 Q1123.7031,555 1123.9375,554.75 Q1124.1719,554.5 1124.4375,554.5 Q1124.9063,554.5 1125.2031,554.7813 Q1125.5,555.0625 1125.5,555.7188 L1125.5,557.2813 Q1125.5,557.9375 1125.2188,558.2188 Q1124.9375,558.5 1124.5,558.5 Q1124.1094,558.5 1123.8594,558.3281 Q1123.6094,558.1563 1123.5,557.7031 Q1123.4531,557.3906 1123.2813,557.2188 Q1122.9688,556.8906 1122.4063,556.7031 Q1121.8438,556.5 1121.2813,556.5 Q1120.5781,556.5 1119.9844,556.7813 Q1119.4063,557.0625 1118.9531,557.6875 Q1118.5,558.3125 1118.5,559.1719 L1118.5,560.0938 Q1118.5,561.125 1119.3438,561.8125 Q1120.1875,562.5 1121.6875,562.5 Q1122.5781,562.5 1123.2031,562.2969 Q1123.5625,562.1875 1123.9688,561.8281 Q1124.2344,561.625 1124.375,561.5625 Q1124.5156,561.5 1124.6875,561.5 Q1125.0156,561.5 1125.25,561.7656 Q1125.5,562.0156 1125.5,562.375 Q1125.5,562.7188 1125.1563,563.125 Q1124.6563,563.7188 1123.8594,564.0469 Q1122.8125,564.5 1121.5313,564.5 Q1120.0313,564.5 1118.8281,563.9063 Q1117.8594,563.4375 1117.1719,562.4219 Q1116.5,561.4063 1116.5,560.2031 L1116.5,559.1094 Q1116.5,557.8594 1117.0938,556.7656 Q1117.7031,555.6719 1118.75,555.0938 Q1119.8125,554.5 1121,554.5 Q1121.7188,554.5 1122.3438,554.75 Q1122.9688,555 1123.5,555.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="107" x="1135.5" y="563.9102">ParameterCategory</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1107.5" x2="1244.5" y1="575" y2="575"/><!--MD5=[0f07739f46effee96e095e9c408da841]
+class TestParameter--><rect fill="#FEFECE" filter="url(#fmmn2wcbkejxz)" height="40" id="TestParameter" style="stroke:#A80036;stroke-width:1.5;" width="114" x="60" y="209"/><ellipse cx="75" cy="225" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M77,221.5 Q77.2031,221 77.4375,220.75 Q77.6719,220.5 77.9375,220.5 Q78.4063,220.5 78.7031,220.7813 Q79,221.0625 79,221.7188 L79,223.2813 Q79,223.9375 78.7188,224.2188 Q78.4375,224.5 78,224.5 Q77.6094,224.5 77.3594,224.3281 Q77.1094,224.1563 77,223.7031 Q76.9531,223.3906 76.7813,223.2188 Q76.4688,222.8906 75.9063,222.7031 Q75.3438,222.5 74.7813,222.5 Q74.0781,222.5 73.4844,222.7813 Q72.9063,223.0625 72.4531,223.6875 Q72,224.3125 72,225.1719 L72,226.0938 Q72,227.125 72.8438,227.8125 Q73.6875,228.5 75.1875,228.5 Q76.0781,228.5 76.7031,228.2969 Q77.0625,228.1875 77.4688,227.8281 Q77.7344,227.625 77.875,227.5625 Q78.0156,227.5 78.1875,227.5 Q78.5156,227.5 78.75,227.7656 Q79,228.0156 79,228.375 Q79,228.7188 78.6563,229.125 Q78.1563,229.7188 77.3594,230.0469 Q76.3125,230.5 75.0313,230.5 Q73.5313,230.5 72.3281,229.9063 Q71.3594,229.4375 70.6719,228.4219 Q70,227.4063 70,226.2031 L70,225.1094 Q70,223.8594 70.5938,222.7656 Q71.2031,221.6719 72.25,221.0938 Q73.3125,220.5 74.5,220.5 Q75.2188,220.5 75.8438,220.75 Q76.4688,221 77,221.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="82" x="89" y="229.9102">TestParameter</text><line style="stroke:#A80036;stroke-width:1.5;" x1="61" x2="173" y1="241" y2="241"/><ellipse cx="8" cy="229" fill="#000000" rx="2" ry="2" style="stroke:none;stroke-width:1.0;"/><!--MD5=[36a204bd4af8ae270b9eb204523b0143]
+class BarCodeApi--><rect fill="#FEFECE" filter="url(#fmmn2wcbkejxz)" height="40" id="BarCodeApi" style="stroke:#A80036;stroke-width:1.5;" width="98" x="392" y="379.5"/><ellipse cx="407" cy="395.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M409,392 Q409.2031,391.5 409.4375,391.25 Q409.6719,391 409.9375,391 Q410.4063,391 410.7031,391.2813 Q411,391.5625 411,392.2188 L411,393.7813 Q411,394.4375 410.7188,394.7188 Q410.4375,395 410,395 Q409.6094,395 409.3594,394.8281 Q409.1094,394.6563 409,394.2031 Q408.9531,393.8906 408.7813,393.7188 Q408.4688,393.3906 407.9063,393.2031 Q407.3438,393 406.7813,393 Q406.0781,393 405.4844,393.2813 Q404.9063,393.5625 404.4531,394.1875 Q404,394.8125 404,395.6719 L404,396.5938 Q404,397.625 404.8438,398.3125 Q405.6875,399 407.1875,399 Q408.0781,399 408.7031,398.7969 Q409.0625,398.6875 409.4688,398.3281 Q409.7344,398.125 409.875,398.0625 Q410.0156,398 410.1875,398 Q410.5156,398 410.75,398.2656 Q411,398.5156 411,398.875 Q411,399.2188 410.6563,399.625 Q410.1563,400.2188 409.3594,400.5469 Q408.3125,401 407.0313,401 Q405.5313,401 404.3281,400.4063 Q403.3594,399.9375 402.6719,398.9219 Q402,397.9063 402,396.7031 L402,395.6094 Q402,394.3594 402.5938,393.2656 Q403.2031,392.1719 404.25,391.5938 Q405.3125,391 406.5,391 Q407.2188,391 407.8438,391.25 Q408.4688,391.5 409,392 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="66" x="421" y="400.4102">BarCodeApi</text><line style="stroke:#A80036;stroke-width:1.5;" x1="393" x2="489" y1="411.5" y2="411.5"/><!--MD5=[742a261f27a3dcd734c626287d811acd]
+link Company to TestType--><path codeLine="51" d="M1053,256.33 C1053,287.98 1053,340.78 1053,372.36 " fill="none" id="Company-TestType" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="1058,302.1758,1060.9389,293.1307,1055.0611,293.1307,1058,302.1758" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="53" x="1067" y="302.4951">conducts</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="1045.2781" y="277.1651">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="1047.4219" y="361.7886">*</text><!--MD5=[12d76240d3c3c66074d4ec2ea8bf469c]
+link Company to Parameter--><path codeLine="52" d="M1010.22,240.92 C965.08,254.61 894.92,282.39 854,331 C799.96,395.2 787.02,500.08 783.95,542.89 " fill="none" id="Company-Parameter" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="856.0018,403.6771,863.7775,398.201,859.0737,394.6763,856.0018,403.6771" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="868" y="404.9951">capable of analysing</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="995.5549" y="239.1071">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="778.4947" y="532.1794">*</text><!--MD5=[93b4f25fb503a8e0e9a46b1d30ff3f44]
+link Company to ParameterCategory--><path codeLine="53" d="M1094.03,256.01 C1107.18,265.3 1121.35,276.36 1133,288 C1212.69,367.6 1247.18,385.88 1282,493 C1289.64,516.49 1270.09,532.66 1245.78,543.41 " fill="none" id="Company-ParameterCategory" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="1279.3346,404.0973,1277.7102,394.7265,1272.5124,397.471,1279.3346,404.0973" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="39" x="1286" y="404.9951">adopts</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="1095.2397" y="277.22">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="1253.6856" y="537.9067">*</text><!--MD5=[b72ac8ab7fb5921fceb5036a3902baea]
+link Test to Sample--><path codeLine="55" d="M343.02,60.86 C399.55,95.21 519.09,167.88 580.24,205.05 " fill="none" id="Test-Sample" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="487.2726,137.7728,481.0699,130.5633,478.0169,135.5861,487.2726,137.7728" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="45" x="492" y="140.4951">collects</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="351.0028" y="61.1763">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="567.5654" y="196.5038">*</text><!--MD5=[608d18da67bd7552353377ce78ce19e5]
+link Test to apoint8002--><path d="M280.97,54.47 C227.13,77.08 114.55,128.69 35,195 C22.26,205.62 11.14,222.92 8.56,227.08 " fill="none" id="Test-apoint8002" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="136.7765,137.852,145.9899,135.4932,142.8439,130.5282,136.7765,137.852" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="116" x="150" y="140.4951">requests analysis of</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="15" x="258.0232" y="53.1634">1..</text><!--MD5=[a8d0751bee120077b7ffbe6886db822b]
+link apoint8002 to Parameter--><path d="M8.25,231.09 C11.59,245.66 49.55,402.59 146,468 C243.03,533.8 608.68,554.88 737.64,560.35 " fill="none" id="apoint8002-Parameter" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="725.0123" y="556.1758">*</text><!--MD5=[6d7b682fd13752e31f15026305b0282e]
+link apoint8002 to TestParameter--><path d="M10.13,229 C26.69,229 43.25,229 59.81,229 " fill="none" id="apoint8002-TestParameter" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[6df8849671cb880f6936e94aa30db6f9]
+link Parameter to ParameterCategory--><path codeLine="60" d="M791.83,542.83 C799.16,528.83 811.05,511.28 827.5,503 C876.37,478.4 1026.15,517.15 1112.61,542.95 " fill="none" id="Parameter-ParameterCategory" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="95" x="828.5" y="507.4951">Presented under</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="788.6894" y="532.1018">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="1091.8139" y="534.6961">1</text><!--MD5=[0e00e25ac6b8c14659aaff2cf7e5df08]
+link TestParameter to TestParameterResult--><path codeLine="62" d="M174.06,229 C207.84,229 251.04,229 287.6,229 " fill="none" id="TestParameter-TestParameterResult" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="209,217.1758,199.9549,214.2369,199.9549,220.1147,209,217.1758" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="213" y="222.4951">contains</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="181.8193" y="225.4926">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="26" x="254.0031" y="243.2118">0.. 1</text><!--MD5=[be84f5b74f233620fd35d16ee4b496da]
+link TestParameterResult to Sample--><path codeLine="64" d="M438.13,229 C484.85,229 542.92,229 580.22,229 " fill="none" id="TestParameterResult-Sample" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="472.75,217.1758,463.7049,214.2369,463.7049,220.1147,472.75,217.1758" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="78" x="476.75" y="222.4951">obtained from</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="446.1356" y="225.7052">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="565.609" y="225.0677">1</text><!--MD5=[8aaf0efd5e2f3824be7ea3e488dcc283]
+link TestType to ParameterCategory--><path codeLine="68" d="M1053.19,426.78 C1054.64,450.98 1060.18,486.69 1079,511 C1089.66,524.76 1105.09,535.2 1120.52,542.94 " fill="none" id="TestType-ParameterCategory" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="1086.5074,506.5016,1084.5141,497.2023,1079.4288,500.1499,1086.5074,506.5016" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="180" x="1093" y="507.4951">can measure parameters under</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="1045.4659" y="448.049">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="20" x="1107.1603" y="532.2441">1..*</text><!--MD5=[b2f584ed44712afd73b1257dcf7f0c09]
+link TestType to SampleCollectionMethod--><path codeLine="69" d="M1021.62,426.58 C1003.8,443.46 983.08,467.08 973,493 C967.74,506.51 967.01,522.67 967.7,535.95 " fill="none" id="TestType-SampleCollectionMethod" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="975.7891,506.6604,982.4247,499.8472,977.1527,497.2481,975.7891,506.6604" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="36" x="987" y="507.4951">allows</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="1006.99" y="447.8053">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="20" x="944.4581" y="524.9645">1..*</text><!--MD5=[cb5e86f6614a99551e1d9ce6f0ae5849]
+link Sample to MedicalLabTechnician--><path codeLine="74" d="M618,256.33 C618,276.32 618,304.75 618,330.94 " fill="none" id="Sample-MedicalLabTechnician" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="623,302.1758,625.9389,293.1307,620.0611,293.1307,623,302.1758" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="70" x="632" y="302.4951">collected by</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="612.4844" y="277.1651">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="610.6172" y="320.0887">1</text><!--MD5=[2fba4eef0cf1915502918731bf15a606]
+link Sample to BarCode--><path codeLine="75" d="M580.44,244.73 C531.25,264.11 442.39,299.43 367,331 C328.02,347.33 283.85,366.64 252.66,380.42 " fill="none" id="Sample-BarCode" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="471.3802,299.0882,480.8616,298.344,478.6134,292.9131,471.3802,299.0882" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="485" y="302.4951">identified by</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="565.6129" y="262.7978">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="260.526" y="373.1374">1</text><!--MD5=[f675f1d060b66083fb38f7b06acedd1b]
+link BarCode to BarCodeApi--><path codeLine="77" d="M252.68,399.5 C291.62,399.5 350.43,399.5 391.95,399.5 " fill="none" id="BarCode-BarCodeApi" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="287.25,387.6758,278.2049,384.7369,278.2049,390.6147,287.25,387.6758" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="291.25" y="392.9951">generated by</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="260.3714" y="395.616">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="376.9033" y="395.797">1</text><!--MD5=[8e02fb05df4e498fb37955cd5457c0db]
+@startuml
+'https://plantuml.com/class-diagram
+hide methods
+skinparam classAttributeIconSize 0
+skinparam nodesep 50
+skinparam ranksep 50
+
+class Company {
+-designation
+}
+
+
+class Test {
+-testCode
+-NHSCode
+}
+
+class TestParameterResult {
+-createdAt
+-value
+}
+
+class BarCode {
+-Code
+}
+
+
+class TestType {
+-designation
+}
+
+class MedicalLabTechnician {
+-employeeID
+-organizationRole
+-name
+-address
+-phoneNumber
+-email
+-soc
+}
+
+
+
+class Sample {
+-createdAt
+}
+
+class SampleCollectionMethod {
+-description
+}
+
+Company "1" - - "*" TestType : conducts >
+Company "1" - - "*" Parameter : capable of analysing >
+Company "1" - - - "*" ParameterCategory : adopts >
+
+Test "1" - "*" Sample :  collects >
+
+Test "1.." - - - "*" Parameter : requests analysis of >
+(Test, Parameter).TestParameter
+
+Parameter "*" - "1" ParameterCategory : Presented under
+
+TestParameter "1" - "0.. 1" TestParameterResult :  contains >
+
+TestParameterResult "*" - "1" Sample :  obtained from >
+
+
+
+TestType "1" - "1..*" ParameterCategory : can measure parameters under >
+TestType "1" - - "1..*" SampleCollectionMethod : allows >
+
+
+
+
+Sample "*" - - "1" MedicalLabTechnician : collected by >
+Sample "1" - - "1" BarCode : identified by >
+
+BarCode "*" - "1" BarCodeApi : generated by >
+@enduml
+
+@startuml
+hide methods
+skinparam classAttributeIconSize 0
+skinparam nodesep 50
+skinparam ranksep 50
+
+class Company {
+-designation
+}
+
+
+class Test {
+-testCode
+-NHSCode
+}
+
+class TestParameterResult {
+-createdAt
+-value
+}
+
+class BarCode {
+-Code
+}
+
+
+class TestType {
+-designation
+}
+
+class MedicalLabTechnician {
+-employeeID
+-organizationRole
+-name
+-address
+-phoneNumber
+-email
+-soc
+}
+
+
+
+class Sample {
+-createdAt
+}
+
+class SampleCollectionMethod {
+-description
+}
+
+Company "1" - - "*" TestType : conducts >
+Company "1" - - "*" Parameter : capable of analysing >
+Company "1" - - - "*" ParameterCategory : adopts >
+
+Test "1" - "*" Sample :  collects >
+
+Test "1.." - - - "*" Parameter : requests analysis of >
+(Test, Parameter).TestParameter
+
+Parameter "*" - "1" ParameterCategory : Presented under
+
+TestParameter "1" - "0.. 1" TestParameterResult :  contains >
+
+TestParameterResult "*" - "1" Sample :  obtained from >
+
+
+
+TestType "1" - "1..*" ParameterCategory : can measure parameters under >
+TestType "1" - - "1..*" SampleCollectionMethod : allows >
+
+
+
+
+Sample "*" - - "1" MedicalLabTechnician : collected by >
+Sample "1" - - "1" BarCode : identified by >
+
+BarCode "*" - "1" BarCodeApi : generated by >
+@enduml
+
+PlantUML version 1.2021.5(Sun Apr 25 12:20:28 BST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

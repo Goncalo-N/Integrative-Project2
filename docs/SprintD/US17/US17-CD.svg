@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="615.2px" preserveAspectRatio="none" style="width:484px;height:615px;background:#FFFFFF;" version="1.1" viewBox="0 0 484 615" width="484px" zoomAndPan="magnify"><defs><filter height="300%" id="f1hvp5fd9nk9dj" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="1.6000000000000003"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="3.2000000000000006" dy="3.2000000000000006" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[bcff1293548765b9bca2a02c7e5ada38]
+class ImportTestUI--><rect codeLine="5" fill="#FEFECE" filter="url(#f1hvp5fd9nk9dj)" height="38.4" id="ImportTestUI" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="82.4" x="310.4" y="5.6"/><ellipse cx="322.4" cy="18.4" fill="#ADD1B2" rx="8.8" ry="8.8" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><path d="M324,15.6 Q324.1625,15.2 324.35,15 Q324.5375,14.8 324.75,14.8 Q325.125,14.8 325.3625,15.025 Q325.6,15.25 325.6,15.775 L325.6,17.025 Q325.6,17.55 325.375,17.775 Q325.15,18 324.8,18 Q324.4875,18 324.2875,17.8625 Q324.0875,17.725 324,17.3625 Q323.9625,17.1125 323.825,16.975 Q323.575,16.7125 323.125,16.5625 Q322.675,16.4 322.225,16.4 Q321.6625,16.4 321.1875,16.625 Q320.725,16.85 320.3625,17.35 Q320,17.85 320,18.5375 L320,19.275 Q320,20.1 320.675,20.65 Q321.35,21.2 322.55,21.2 Q323.2625,21.2 323.7625,21.0375 Q324.05,20.95 324.375,20.6625 Q324.5875,20.5 324.7,20.45 Q324.8125,20.4 324.95,20.4 Q325.2125,20.4 325.4,20.6125 Q325.6,20.8125 325.6,21.1 Q325.6,21.375 325.325,21.7 Q324.925,22.175 324.2875,22.4375 Q323.45,22.8 322.425,22.8 Q321.225,22.8 320.2625,22.325 Q319.4875,21.95 318.9375,21.1375 Q318.4,20.325 318.4,19.3625 L318.4,18.4875 Q318.4,17.4875 318.875,16.6125 Q319.3625,15.7375 320.2,15.275 Q321.05,14.8 322,14.8 Q322.575,14.8 323.075,15 Q323.575,15.2 324,15.6 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="9.6" lengthAdjust="spacing" textLength="56.8" x="333.6" y="22.3281">ImportTestUI</text><line style="stroke:#A80036;stroke-width:1.2000000000000002;" x1="311.2" x2="392" y1="31.2" y2="31.2"/><line style="stroke:#A80036;stroke-width:1.2000000000000002;" x1="311.2" x2="392" y1="37.6" y2="37.6"/><!--MD5=[51912c652aa2a3a1d0b745172ce59331]
+class ImportTestController--><rect codeLine="6" fill="#FEFECE" filter="url(#f1hvp5fd9nk9dj)" height="60.5375" id="ImportTestController" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="116" x="293.6" y="92"/><ellipse cx="305.6" cy="104.8" fill="#ADD1B2" rx="8.8" ry="8.8" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><path d="M307.2,102 Q307.3625,101.6 307.55,101.4 Q307.7375,101.2 307.95,101.2 Q308.325,101.2 308.5625,101.425 Q308.8,101.65 308.8,102.175 L308.8,103.425 Q308.8,103.95 308.575,104.175 Q308.35,104.4 308,104.4 Q307.6875,104.4 307.4875,104.2625 Q307.2875,104.125 307.2,103.7625 Q307.1625,103.5125 307.025,103.375 Q306.775,103.1125 306.325,102.9625 Q305.875,102.8 305.425,102.8 Q304.8625,102.8 304.3875,103.025 Q303.925,103.25 303.5625,103.75 Q303.2,104.25 303.2,104.9375 L303.2,105.675 Q303.2,106.5 303.875,107.05 Q304.55,107.6 305.75,107.6 Q306.4625,107.6 306.9625,107.4375 Q307.25,107.35 307.575,107.0625 Q307.7875,106.9 307.9,106.85 Q308.0125,106.8 308.15,106.8 Q308.4125,106.8 308.6,107.0125 Q308.8,107.2125 308.8,107.5 Q308.8,107.775 308.525,108.1 Q308.125,108.575 307.4875,108.8375 Q306.65,109.2 305.625,109.2 Q304.425,109.2 303.4625,108.725 Q302.6875,108.35 302.1375,107.5375 Q301.6,106.725 301.6,105.7625 L301.6,104.8875 Q301.6,103.8875 302.075,103.0125 Q302.5625,102.1375 303.4,101.675 Q304.25,101.2 305.2,101.2 Q305.775,101.2 306.275,101.4 Q306.775,101.6 307.2,102 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="9.6" lengthAdjust="spacing" textLength="90.4" x="316.8" y="108.7281">ImportTestController</text><line style="stroke:#A80036;stroke-width:1.2000000000000002;" x1="294.4" x2="408.8" y1="117.6" y2="117.6"/><line style="stroke:#A80036;stroke-width:1.2000000000000002;" x1="294.4" x2="408.8" y1="124" y2="124"/><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="51.2" x="298.4" y="136.3352">+importTest()</text><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="47.2" x="298.4" y="147.4039">+saveTest()</text><!--MD5=[02e4b9b7573f1156f41e60aa5b4e25a4]
+class Company--><rect codeLine="10" fill="#FEFECE" filter="url(#f1hvp5fd9nk9dj)" height="104.8125" id="Company" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="209.6" x="131.6" y="249.6"/><ellipse cx="211.8" cy="262.4" fill="#ADD1B2" rx="8.8" ry="8.8" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><path d="M213.4,259.6 Q213.5625,259.2 213.75,259 Q213.9375,258.8 214.15,258.8 Q214.525,258.8 214.7625,259.025 Q215,259.25 215,259.775 L215,261.025 Q215,261.55 214.775,261.775 Q214.55,262 214.2,262 Q213.8875,262 213.6875,261.8625 Q213.4875,261.725 213.4,261.3625 Q213.3625,261.1125 213.225,260.975 Q212.975,260.7125 212.525,260.5625 Q212.075,260.4 211.625,260.4 Q211.0625,260.4 210.5875,260.625 Q210.125,260.85 209.7625,261.35 Q209.4,261.85 209.4,262.5375 L209.4,263.275 Q209.4,264.1 210.075,264.65 Q210.75,265.2 211.95,265.2 Q212.6625,265.2 213.1625,265.0375 Q213.45,264.95 213.775,264.6625 Q213.9875,264.5 214.1,264.45 Q214.2125,264.4 214.35,264.4 Q214.6125,264.4 214.8,264.6125 Q215,264.8125 215,265.1 Q215,265.375 214.725,265.7 Q214.325,266.175 213.6875,266.4375 Q212.85,266.8 211.825,266.8 Q210.625,266.8 209.6625,266.325 Q208.8875,265.95 208.3375,265.1375 Q207.8,264.325 207.8,263.3625 L207.8,262.4875 Q207.8,261.4875 208.275,260.6125 Q208.7625,259.7375 209.6,259.275 Q210.45,258.8 211.4,258.8 Q211.975,258.8 212.475,259 Q212.975,259.2 213.4,259.6 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="9.6" lengthAdjust="spacing" textLength="42.4" x="228.2" y="266.3281">Company</text><line style="stroke:#A80036;stroke-width:1.2000000000000002;" x1="132.4" x2="340.4" y1="275.2" y2="275.2"/><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="72" x="136.4" y="287.5352">-String designation</text><line style="stroke:#A80036;stroke-width:1.2000000000000002;" x1="132.4" x2="340.4" y1="292.6688" y2="292.6688"/><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="91.2" x="136.4" y="305.0039">+Company(designation)</text><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="84.8" x="136.4" y="316.0727">+getTestStore() : Test</text><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="129.6" x="136.4" y="327.1414">+getParameterStore() : Parameter</text><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="123.2" x="136.4" y="338.2102">+getTestTypeStore() : TestType</text><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="200" x="136.4" y="349.2789">+getParameterCategoryStore() : ParameterCategory</text><!--MD5=[0f6f7964b844a64b0496af0dda7914bd]
+class TestStore--><rect codeLine="18" fill="#FEFECE" filter="url(#f1hvp5fd9nk9dj)" height="82.675" id="TestStore" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="376.8" x="5.6" y="402.4"/><ellipse cx="169.4" cy="415.2" fill="#ADD1B2" rx="8.8" ry="8.8" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><path d="M171,412.4 Q171.1625,412 171.35,411.8 Q171.5375,411.6 171.75,411.6 Q172.125,411.6 172.3625,411.825 Q172.6,412.05 172.6,412.575 L172.6,413.825 Q172.6,414.35 172.375,414.575 Q172.15,414.8 171.8,414.8 Q171.4875,414.8 171.2875,414.6625 Q171.0875,414.525 171,414.1625 Q170.9625,413.9125 170.825,413.775 Q170.575,413.5125 170.125,413.3625 Q169.675,413.2 169.225,413.2 Q168.6625,413.2 168.1875,413.425 Q167.725,413.65 167.3625,414.15 Q167,414.65 167,415.3375 L167,416.075 Q167,416.9 167.675,417.45 Q168.35,418 169.55,418 Q170.2625,418 170.7625,417.8375 Q171.05,417.75 171.375,417.4625 Q171.5875,417.3 171.7,417.25 Q171.8125,417.2 171.95,417.2 Q172.2125,417.2 172.4,417.4125 Q172.6,417.6125 172.6,417.9 Q172.6,418.175 172.325,418.5 Q171.925,418.975 171.2875,419.2375 Q170.45,419.6 169.425,419.6 Q168.225,419.6 167.2625,419.125 Q166.4875,418.75 165.9375,417.9375 Q165.4,417.125 165.4,416.1625 L165.4,415.2875 Q165.4,414.2875 165.875,413.4125 Q166.3625,412.5375 167.2,412.075 Q168.05,411.6 169,411.6 Q169.575,411.6 170.075,411.8 Q170.575,412 171,412.4 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="9.6" lengthAdjust="spacing" textLength="42.4" x="185.8" y="419.1281">TestStore</text><line style="stroke:#A80036;stroke-width:1.2000000000000002;" x1="6.4" x2="381.6" y1="428" y2="428"/><line style="stroke:#A80036;stroke-width:1.2000000000000002;" x1="6.4" x2="381.6" y1="434.4" y2="434.4"/><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="367.2" x="10.4" y="446.7352">+createTest(testCode, nhsCode, ClientID, TestTypeDesignation, CategoryID, ParameterID) : Test</text><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="84.8" x="10.4" y="457.8039">+saveTest(test) : bool</text><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="93.6" x="10.4" y="468.8727">-validateTest(test) : bool</text><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="133.6" x="10.4" y="479.9414">+getTestByCode(testCode) : string</text><!--MD5=[df38be88ccee13e832d6fafd6288a4ca]
+class Test--><rect codeLine="24" fill="#FEFECE" filter="url(#f1hvp5fd9nk9dj)" height="71.6063" id="Test" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="328" x="145.2" y="532.8"/><ellipse cx="296.2" cy="545.6" fill="#ADD1B2" rx="8.8" ry="8.8" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><path d="M297.8,542.8 Q297.9625,542.4 298.15,542.2 Q298.3375,542 298.55,542 Q298.925,542 299.1625,542.225 Q299.4,542.45 299.4,542.975 L299.4,544.225 Q299.4,544.75 299.175,544.975 Q298.95,545.2 298.6,545.2 Q298.2875,545.2 298.0875,545.0625 Q297.8875,544.925 297.8,544.5625 Q297.7625,544.3125 297.625,544.175 Q297.375,543.9125 296.925,543.7625 Q296.475,543.6 296.025,543.6 Q295.4625,543.6 294.9875,543.825 Q294.525,544.05 294.1625,544.55 Q293.8,545.05 293.8,545.7375 L293.8,546.475 Q293.8,547.3 294.475,547.85 Q295.15,548.4 296.35,548.4 Q297.0625,548.4 297.5625,548.2375 Q297.85,548.15 298.175,547.8625 Q298.3875,547.7 298.5,547.65 Q298.6125,547.6 298.75,547.6 Q299.0125,547.6 299.2,547.8125 Q299.4,548.0125 299.4,548.3 Q299.4,548.575 299.125,548.9 Q298.725,549.375 298.0875,549.6375 Q297.25,550 296.225,550 Q295.025,550 294.0625,549.525 Q293.2875,549.15 292.7375,548.3375 Q292.2,547.525 292.2,546.5625 L292.2,545.6875 Q292.2,544.6875 292.675,543.8125 Q293.1625,542.9375 294,542.475 Q294.85,542 295.8,542 Q296.375,542 296.875,542.2 Q297.375,542.4 297.8,542.8 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="9.6" lengthAdjust="spacing" textLength="19.2" x="312.6" y="549.5281">Test</text><line style="stroke:#A80036;stroke-width:1.2000000000000002;" x1="146" x2="472.4" y1="558.4" y2="558.4"/><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="66.4" x="150" y="570.7352">-Integer testCode</text><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="66.4" x="150" y="581.8039">-Integer nhsCode</text><line style="stroke:#A80036;stroke-width:1.2000000000000002;" x1="146" x2="472.4" y1="586.9375" y2="586.9375"/><text fill="#000000" font-family="sans-serif" font-size="8.8" lengthAdjust="spacing" textLength="318.4" x="150" y="599.2727">+Test(testCode, nhsCode, ClientID, TestTypeDesignation, CategoryID, ParameterID)</text><!--MD5=[57290b2a5c651bbad46b720eb74ca40f]
+link ImportTestUI to ImportTestController--><path codeLine="30" d="M351.6,44.112 C351.6,56.464 351.6,73.064 351.6,87.736 " fill="none" id="ImportTestUI-to-ImportTestController" style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="351.6,91.816,354.8,84.616,351.6,87.816,348.4,84.616,351.6,91.816" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><!--MD5=[4a0018ce1aceec1b895c9fec3017e483]
+link ImportTestController to Company--><path codeLine="31" d="M332.32,152.992 C316.008,178.192 292.192,214.992 272.376,245.608 " fill="none" id="ImportTestController-to-Company" style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="269.984,249.312,276.5899,245.0176,272.1632,245.9577,271.223,241.5309,269.984,249.312" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><!--MD5=[127b4888d1d4c7fa1359ef77f65af35b]
+link ImportTestController to Test--><path codeLine="32" d="M365.152,152.984 C392.072,216.704 445.624,369.8 396.4,484.8 C389.048,501.968 376.232,517.28 362.64,529.936 " fill="none" id="ImportTestController-to-Test" style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="359.544,532.768,367.0213,530.2839,362.5007,530.0739,362.7107,525.5533,359.544,532.768" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><!--MD5=[7f6cf7f175eae0af66201860de5de971]
+link Company to TestStore--><path codeLine="33" d="M220.736,354.536 C216.376,368.912 211.688,384.4 207.472,398.328 " fill="none" id="Company-to-TestStore" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><polygon fill="#A80036" points="206.288,402.216,211.4464,396.2603,207.4531,398.3894,205.3239,394.3961,206.288,402.216" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><!--MD5=[b0f4f6db8206580012ef9cd998ed01c5]
+link TestStore to Test--><path codeLine="34" d="M231.72,484.872 C245.08,499.208 260.064,515.288 273.272,529.456 " fill="none" id="TestStore-to-Test" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><polygon fill="#A80036" points="276.24,532.632,273.6656,525.1853,273.5103,529.7082,268.9875,529.5528,276.24,532.632" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><!--MD5=[7b5477d60eeae1e03460ef7a1b819b5c]
+@startuml
+'https://plantuml.com/class-diagram
+
+skinparam classAttributeIconSize 0
+
+class ImportTestUI{}
+class ImportTestController{
++importTest()
++saveTest()
+}
+class Company{
+-String designation
++Company(designation)
++getTestStore() : Test
++getParameterStore() : Parameter
++getTestTypeStore() : TestType
++getParameterCategoryStore() : ParameterCategory
+}
+class TestStore{
++createTest(testCode, nhsCode, ClientID, TestTypeDesignation, CategoryID, ParameterID) : Test
++saveTest(test) : bool
+-validateTest(test) : bool
++getTestByCode(testCode) : string
+}
+class Test{
+-Integer testCode
+-Integer nhsCode
++Test(testCode, nhsCode, ClientID, TestTypeDesignation, CategoryID, ParameterID)
+}
+
+ImportTestUI ..> ImportTestController
+ImportTestController ...> Company
+ImportTestController ..> Test
+Company - -> TestStore
+TestStore - -> Test
+
+@enduml
+
+@startuml
+
+skinparam classAttributeIconSize 0
+
+class ImportTestUI{}
+class ImportTestController{
++importTest()
++saveTest()
+}
+class Company{
+-String designation
++Company(designation)
++getTestStore() : Test
++getParameterStore() : Parameter
++getTestTypeStore() : TestType
++getParameterCategoryStore() : ParameterCategory
+}
+class TestStore{
++createTest(testCode, nhsCode, ClientID, TestTypeDesignation, CategoryID, ParameterID) : Test
++saveTest(test) : bool
+-validateTest(test) : bool
++getTestByCode(testCode) : string
+}
+class Test{
+-Integer testCode
+-Integer nhsCode
++Test(testCode, nhsCode, ClientID, TestTypeDesignation, CategoryID, ParameterID)
+}
+
+ImportTestUI ..> ImportTestController
+ImportTestController ...> Company
+ImportTestController ..> Test
+Company - -> TestStore
+TestStore - -> Test
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 13:40:07 BST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: Dynamic Code Evolution 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

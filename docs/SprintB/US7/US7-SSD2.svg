@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="349px" preserveAspectRatio="none" style="width:743px;height:349px;" version="1.1" viewBox="0 0 743 349" width="743px" zoomAndPan="magnify"><defs><filter height="300%" id="f1mjm34q1fmjew" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="55" x2="55" y1="41.6094" y2="304.4219"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="701.5" x2="701.5" y1="41.6094" y2="304.4219"/><rect fill="#FEFECE" filter="url(#f1mjm34q1fmjew)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="97" x="5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="12" y="26.5332">Administrator</text><rect fill="#FEFECE" filter="url(#f1mjm34q1fmjew)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="97" x="5" y="303.4219"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="12" y="324.9551">Administrator</text><rect fill="#FEFECE" filter="url(#f1mjm34q1fmjew)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="60" x="669.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="676.5" y="26.5332">System</text><rect fill="#FEFECE" filter="url(#f1mjm34q1fmjew)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="60" x="669.5" y="303.4219"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="676.5" y="324.9551">System</text><polygon fill="#A80036" points="689.5,69.9609,699.5,73.9609,689.5,77.9609,693.5,73.9609" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="55.5" x2="695.5" y1="73.9609" y2="73.9609"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="62.5" y="69.1045">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="153" x="73.5" y="69.1045">Registers a new employee</text><polygon fill="#A80036" points="66.5,100.3125,56.5,104.3125,66.5,108.3125,62.5,104.3125" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="60.5" x2="700.5" y1="104.3125" y2="104.3125"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="72.5" y="99.4561">2</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="331" x="83.5" y="99.4561">Shows list of organization roles and asks to select</text><polygon fill="#A80036" points="689.5,130.6641,699.5,134.6641,689.5,138.6641,693.5,134.6641" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="55.5" x2="695.5" y1="134.6641" y2="134.6641"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="62.5" y="129.8076">3</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="183" x="73.5" y="129.8076">Selects organization role</text><polygon fill="#A80036" points="66.5,161.0156,56.5,165.0156,66.5,169.0156,62.5,165.0156" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="60.5" x2="700.5" y1="165.0156" y2="165.0156"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="72.5" y="160.1592">4</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="611" x="83.5" y="160.1592">Requests data (i.e., employee ID, name, address, email, phone number, standard, soc.)</text><polygon fill="#A80036" points="689.5,191.3672,699.5,195.3672,689.5,199.3672,693.5,195.3672" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="55.5" x2="695.5" y1="195.3672" y2="195.3672"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="62.5" y="190.5107">5</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="125" x="73.5" y="190.5107">Types requested data</text><polygon fill="#A80036" points="66.5,221.7188,56.5,225.7188,66.5,229.7188,62.5,225.7188" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="60.5" x2="700.5" y1="225.7188" y2="225.7188"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="72.5" y="220.8623">6</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="221" x="83.5" y="220.8623">Shows data and requests confirmation</text><polygon fill="#A80036" points="689.5,252.0703,699.5,256.0703,689.5,260.0703,693.5,256.0703" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="55.5" x2="695.5" y1="256.0703" y2="256.0703"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="62.5" y="251.2139">7</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="102" x="73.5" y="251.2139">Confirms the data</text><polygon fill="#A80036" points="66.5,282.4219,56.5,286.4219,66.5,290.4219,62.5,286.4219" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="60.5" x2="700.5" y1="286.4219" y2="286.4219"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="72.5" y="281.5654">8</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="145" x="83.5" y="281.5654">Informs operation sucess</text><!--MD5=[707ca983de7653910f1ccdae09a8b667]
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+Administrator -> System: Registers a new employee
+
+Administrator <- - System: Shows list of organization roles and asks to select
+Administrator-> System: Selects organization role
+
+
+System - -> Administrator: Requests data (i.e., employee ID, organization role, name, address, email, phone number, standard, soc.)
+
+
+Administrator-> System: Types requested data
+
+Administrator <- - System: Shows data and requests confirmation
+Administrator-> System: Confirms the data
+Administrator <- - System: Informs operation sucess
+@enduml
+
+@startuml
+
+autonumber
+
+Administrator -> System: Registers a new employee
+
+Administrator <- - System: Shows list of organization roles and asks to select
+Administrator-> System: Selects organization role
+
+
+System - -> Administrator: Requests data (i.e., employee ID, name, address, email, phone number, standard, soc.)
+
+
+Administrator-> System: Types requested data
+
+Administrator <- - System: Shows data and requests confirmation
+Administrator-> System: Confirms the data
+Administrator <- - System: Informs operation sucess
+@enduml
+
+PlantUML version 1.2021.4(Sun Apr 04 09:49:39 BST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

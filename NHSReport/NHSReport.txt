@@ -1,0 +1,17 @@
+The regression model fitted using data from the interval
+y= 0,66 n + 0,01
+(R^2 = 0,942)
+R2adjusted= 0.9422150614459387
+R = 0.9705445558169048
+Hypothesis tests for regression coefficients
+HO:b=0 (a=0) H1: b<>0 (a<>0)
+t_obs=
+Decision: 
+Reject H0/ No reject H0
+Significance model with Anova
+H0: b=0  H1:b<>0 
+		df	SS		MS		F		
+Regression	-1.0	-1967354688	1.967354688E9	Infinity	
+Residual	0.0	-1957114688	 Infinity		
+Total		-1.0	3.7049792E8
+[Mon Jul 12 00:00:00 BST 2021, 0, Wed Jul 14 00:00:00 BST 2021, 0, Fri Jul 16 00:00:00 BST 2021, 0, Mon Jul 19 00:00:00 BST 2021, 0, Wed Jul 21 00:00:00 BST 2021, 0, Fri Jul 23 00:00:00 BST 2021, 0]

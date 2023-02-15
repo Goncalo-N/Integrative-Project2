@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="571.5px" preserveAspectRatio="none" style="width:270px;height:571px;" version="1.1" viewBox="0 0 270 571" width="270.9px" zoomAndPan="magnify"><defs><filter height="300%" id="f77ywydg9ovx4" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="1.8"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="3.6" dy="3.6" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[bc737a8cf877916e411d900d96ed253a]
+class CreateAnalysisUI--><rect codeLine="3" fill="#FEFECE" filter="url(#f77ywydg9ovx4)" height="43.2" id="CreateAnalysisUI" style="stroke:#A80036;stroke-width:1.35;" width="114.3" x="92.7" y="6.3"/><ellipse cx="106.2" cy="20.7" fill="#ADD1B2" rx="9.9" ry="9.9" style="stroke:#A80036;stroke-width:0.9;"/><path d="M108,17.55 Q108.1828,17.1 108.3938,16.875 Q108.6047,16.65 108.8438,16.65 Q109.2656,16.65 109.5328,16.9031 Q109.8,17.1563 109.8,17.7469 L109.8,19.1531 Q109.8,19.7438 109.5469,19.9969 Q109.2938,20.25 108.9,20.25 Q108.5484,20.25 108.3234,20.0953 Q108.0984,19.9406 108,19.5328 Q107.9578,19.2516 107.8031,19.0969 Q107.5219,18.8016 107.0156,18.6328 Q106.5094,18.45 106.0031,18.45 Q105.3703,18.45 104.8359,18.7031 Q104.3156,18.9563 103.9078,19.5188 Q103.5,20.0813 103.5,20.8547 L103.5,21.6844 Q103.5,22.6125 104.2594,23.2313 Q105.0188,23.85 106.3688,23.85 Q107.1703,23.85 107.7328,23.6672 Q108.0563,23.5688 108.4219,23.2453 Q108.6609,23.0625 108.7875,23.0063 Q108.9141,22.95 109.0688,22.95 Q109.3641,22.95 109.575,23.1891 Q109.8,23.4141 109.8,23.7375 Q109.8,24.0469 109.4906,24.4125 Q109.0406,24.9469 108.3234,25.2422 Q107.3813,25.65 106.2281,25.65 Q104.8781,25.65 103.7953,25.1156 Q102.9234,24.6938 102.3047,23.7797 Q101.7,22.8656 101.7,21.7828 L101.7,20.7984 Q101.7,19.6734 102.2344,18.6891 Q102.7828,17.7047 103.725,17.1844 Q104.6813,16.65 105.75,16.65 Q106.3969,16.65 106.9594,16.875 Q107.5219,17.1 108,17.55 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="85.5" x="118.8" y="25.1191">CreateAnalysisUI</text><line style="stroke:#A80036;stroke-width:1.35;" x1="93.6" x2="206.1" y1="35.1" y2="35.1"/><line style="stroke:#A80036;stroke-width:1.35;" x1="93.6" x2="206.1" y1="42.3" y2="42.3"/><!--MD5=[0a4901ee781872d6f1094a33cb324b68]
+class CreateAnalysisController--><rect codeLine="5" fill="#FEFECE" filter="url(#f77ywydg9ovx4)" height="80.557" id="CreateAnalysisController" style="stroke:#A80036;stroke-width:1.35;" width="152.1" x="73.8" y="104.4"/><ellipse cx="87.3" cy="118.8" fill="#ADD1B2" rx="9.9" ry="9.9" style="stroke:#A80036;stroke-width:0.9;"/><path d="M89.1,115.65 Q89.2828,115.2 89.4938,114.975 Q89.7047,114.75 89.9438,114.75 Q90.3656,114.75 90.6328,115.0031 Q90.9,115.2563 90.9,115.8469 L90.9,117.2531 Q90.9,117.8438 90.6469,118.0969 Q90.3938,118.35 90,118.35 Q89.6484,118.35 89.4234,118.1953 Q89.1984,118.0406 89.1,117.6328 Q89.0578,117.3516 88.9031,117.1969 Q88.6219,116.9016 88.1156,116.7328 Q87.6094,116.55 87.1031,116.55 Q86.4703,116.55 85.9359,116.8031 Q85.4156,117.0563 85.0078,117.6188 Q84.6,118.1813 84.6,118.9547 L84.6,119.7844 Q84.6,120.7125 85.3594,121.3313 Q86.1188,121.95 87.4688,121.95 Q88.2703,121.95 88.8328,121.7672 Q89.1563,121.6688 89.5219,121.3453 Q89.7609,121.1625 89.8875,121.1063 Q90.0141,121.05 90.1688,121.05 Q90.4641,121.05 90.675,121.2891 Q90.9,121.5141 90.9,121.8375 Q90.9,122.1469 90.5906,122.5125 Q90.1406,123.0469 89.4234,123.3422 Q88.4813,123.75 87.3281,123.75 Q85.9781,123.75 84.8953,123.2156 Q84.0234,122.7938 83.4047,121.8797 Q82.8,120.9656 82.8,119.8828 L82.8,118.8984 Q82.8,117.7734 83.3344,116.7891 Q83.8828,115.8047 84.825,115.2844 Q85.7813,114.75 86.85,114.75 Q87.4969,114.75 88.0594,114.975 Q88.6219,115.2 89.1,115.65 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="123.3" x="99.9" y="123.2191">CreateAnalysisController</text><line style="stroke:#A80036;stroke-width:1.35;" x1="74.7" x2="225" y1="133.2" y2="133.2"/><line style="stroke:#A80036;stroke-width:1.35;" x1="74.7" x2="225" y1="140.4" y2="140.4"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="77.4" x="79.2" y="154.2771">getTestAnalysis()</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="72.9" x="79.2" y="166.7294">createAnalysis()</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="66.6" x="79.2" y="179.1817">saveAnalysis()</text><!--MD5=[02e4b9b7573f1156f41e60aa5b4e25a4]
+class Company--><rect codeLine="10" fill="#FEFECE" filter="url(#f77ywydg9ovx4)" height="117.9141" id="Company" style="stroke:#A80036;stroke-width:1.35;" width="128.7" x="6.3" y="441"/><ellipse cx="43.29" cy="455.4" fill="#ADD1B2" rx="9.9" ry="9.9" style="stroke:#A80036;stroke-width:0.9;"/><path d="M45.09,452.25 Q45.2728,451.8 45.4838,451.575 Q45.6947,451.35 45.9338,451.35 Q46.3556,451.35 46.6228,451.6031 Q46.89,451.8563 46.89,452.4469 L46.89,453.8531 Q46.89,454.4438 46.6369,454.6969 Q46.3838,454.95 45.99,454.95 Q45.6384,454.95 45.4134,454.7953 Q45.1884,454.6406 45.09,454.2328 Q45.0478,453.9516 44.8931,453.7969 Q44.6119,453.5016 44.1056,453.3328 Q43.5994,453.15 43.0931,453.15 Q42.4603,453.15 41.9259,453.4031 Q41.4056,453.6563 40.9978,454.2188 Q40.59,454.7813 40.59,455.5547 L40.59,456.3844 Q40.59,457.3125 41.3494,457.9313 Q42.1088,458.55 43.4588,458.55 Q44.2603,458.55 44.8228,458.3672 Q45.1463,458.2688 45.5119,457.9453 Q45.7509,457.7625 45.8775,457.7063 Q46.0041,457.65 46.1588,457.65 Q46.4541,457.65 46.665,457.8891 Q46.89,458.1141 46.89,458.4375 Q46.89,458.7469 46.5806,459.1125 Q46.1306,459.6469 45.4134,459.9422 Q44.4713,460.35 43.3181,460.35 Q41.9681,460.35 40.8853,459.8156 Q40.0134,459.3938 39.3947,458.4797 Q38.79,457.5656 38.79,456.4828 L38.79,455.4984 Q38.79,454.3734 39.3244,453.3891 Q39.8728,452.4047 40.815,451.8844 Q41.7713,451.35 42.84,451.35 Q43.4869,451.35 44.0494,451.575 Q44.6119,451.8 45.09,452.25 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="47.7" x="61.11" y="459.8191">Company</text><line style="stroke:#A80036;stroke-width:1.35;" x1="7.2" x2="134.1" y1="469.8" y2="469.8"/><line style="stroke:#A80036;stroke-width:1.35;" x1="7.2" x2="134.1" y1="477" y2="477"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="77.4" x="11.7" y="490.8771">getTestAnalysis()</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="63" x="11.7" y="503.3294">getTestStore()</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="73.8" x="11.7" y="515.7817">getTestByCode()</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="85.5" x="11.7" y="528.2341">getValidatedTests()</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="117.9" x="11.7" y="540.6864">ValidateAnalysis(Analysis)</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="66.6" x="11.7" y="553.1388">saveAnalysis()</text><!--MD5=[05d04b564e9d963c5556604ff8f07e7e]
+class Analysis--><rect codeLine="18" fill="#FEFECE" filter="url(#f77ywydg9ovx4)" height="68.1047" id="Analysis" style="stroke:#A80036;stroke-width:1.35;" width="70.2" x="179.55" y="465.75"/><ellipse cx="193.05" cy="480.15" fill="#ADD1B2" rx="9.9" ry="9.9" style="stroke:#A80036;stroke-width:0.9;"/><path d="M194.85,477 Q195.0328,476.55 195.2438,476.325 Q195.4547,476.1 195.6938,476.1 Q196.1156,476.1 196.3828,476.3531 Q196.65,476.6063 196.65,477.1969 L196.65,478.6031 Q196.65,479.1938 196.3969,479.4469 Q196.1438,479.7 195.75,479.7 Q195.3984,479.7 195.1734,479.5453 Q194.9484,479.3906 194.85,478.9828 Q194.8078,478.7016 194.6531,478.5469 Q194.3719,478.2516 193.8656,478.0828 Q193.3594,477.9 192.8531,477.9 Q192.2203,477.9 191.6859,478.1531 Q191.1656,478.4063 190.7578,478.9688 Q190.35,479.5313 190.35,480.3047 L190.35,481.1344 Q190.35,482.0625 191.1094,482.6813 Q191.8688,483.3 193.2188,483.3 Q194.0203,483.3 194.5828,483.1172 Q194.9063,483.0188 195.2719,482.6953 Q195.5109,482.5125 195.6375,482.4563 Q195.7641,482.4 195.9188,482.4 Q196.2141,482.4 196.425,482.6391 Q196.65,482.8641 196.65,483.1875 Q196.65,483.4969 196.3406,483.8625 Q195.8906,484.3969 195.1734,484.6922 Q194.2313,485.1 193.0781,485.1 Q191.7281,485.1 190.6453,484.5656 Q189.7734,484.1438 189.1547,483.2297 Q188.55,482.3156 188.55,481.2328 L188.55,480.2484 Q188.55,479.1234 189.0844,478.1391 Q189.6328,477.1547 190.575,476.6344 Q191.5313,476.1 192.6,476.1 Q193.2469,476.1 193.8094,476.325 Q194.3719,476.55 194.85,477 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="41.4" x="205.65" y="484.5691">Analysis</text><line style="stroke:#A80036;stroke-width:1.35;" x1="180.45" x2="248.85" y1="494.55" y2="494.55"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="30.6" x="184.95" y="508.4271">graphs</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="38.7" x="184.95" y="520.8794">statistics</text><line style="stroke:#A80036;stroke-width:1.35;" x1="180.45" x2="248.85" y1="526.6547" y2="526.6547"/><!--MD5=[052425de1c0eb6cc1c1b48342b0bb88f]
+class LaboratoryCoordinator--><rect codeLine="23" fill="#FEFECE" filter="url(#f77ywydg9ovx4)" height="130.3664" id="LaboratoryCoordinator" style="stroke:#A80036;stroke-width:1.35;" width="139.5" x="80.1" y="240.3"/><ellipse cx="93.6" cy="254.7" fill="#ADD1B2" rx="9.9" ry="9.9" style="stroke:#A80036;stroke-width:0.9;"/><path d="M95.4,251.55 Q95.5828,251.1 95.7938,250.875 Q96.0047,250.65 96.2438,250.65 Q96.6656,250.65 96.9328,250.9031 Q97.2,251.1563 97.2,251.7469 L97.2,253.1531 Q97.2,253.7438 96.9469,253.9969 Q96.6938,254.25 96.3,254.25 Q95.9484,254.25 95.7234,254.0953 Q95.4984,253.9406 95.4,253.5328 Q95.3578,253.2516 95.2031,253.0969 Q94.9219,252.8016 94.4156,252.6328 Q93.9094,252.45 93.4031,252.45 Q92.7703,252.45 92.2359,252.7031 Q91.7156,252.9563 91.3078,253.5188 Q90.9,254.0813 90.9,254.8547 L90.9,255.6844 Q90.9,256.6125 91.6594,257.2313 Q92.4188,257.85 93.7688,257.85 Q94.5703,257.85 95.1328,257.6672 Q95.4563,257.5688 95.8219,257.2453 Q96.0609,257.0625 96.1875,257.0063 Q96.3141,256.95 96.4688,256.95 Q96.7641,256.95 96.975,257.1891 Q97.2,257.4141 97.2,257.7375 Q97.2,258.0469 96.8906,258.4125 Q96.4406,258.9469 95.7234,259.2422 Q94.7813,259.65 93.6281,259.65 Q92.2781,259.65 91.1953,259.1156 Q90.3234,258.6938 89.7047,257.7797 Q89.1,256.8656 89.1,255.7828 L89.1,254.7984 Q89.1,253.6734 89.6344,252.6891 Q90.1828,251.7047 91.125,251.1844 Q92.0813,250.65 93.15,250.65 Q93.7969,250.65 94.3594,250.875 Q94.9219,251.1 95.4,251.55 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="110.7" x="106.2" y="259.1191">LaboratoryCoordinator</text><line style="stroke:#A80036;stroke-width:1.35;" x1="81" x2="218.7" y1="269.1" y2="269.1"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="77.4" x="85.5" y="282.9771">String employeeID</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="99.9" x="85.5" y="295.4294">String organizationRole</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="51.3" x="85.5" y="307.8817">String name</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="63.9" x="85.5" y="320.3341">String address</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="92.7" x="85.5" y="332.7864">Integer phoneNumber</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="49.5" x="85.5" y="345.2388">String email</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="48.6" x="85.5" y="357.6911">Integer soc</text><line style="stroke:#A80036;stroke-width:1.35;" x1="81" x2="218.7" y1="363.4664" y2="363.4664"/><!--MD5=[2f5efd83dbce16bf26cdf0ef6dc84259]
+link CreateAnalysisUI to CreateAnalysisController--><path codeLine="33" d="M149.85,49.662 C149.85,63.531 149.85,82.278 149.85,99.405 " fill="none" id="CreateAnalysisUI-to-CreateAnalysisController" style="stroke:#A80036;stroke-width:0.9;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="149.85,104.184,153.45,96.084,149.85,99.684,146.25,96.084,149.85,104.184" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[de6365e99bd9a8a8086fe89a9d533742]
+link CreateAnalysisController to Company--><path codeLine="34" d="M101.934,185.535 C86.94,200.907 72.261,219.762 64.35,240.3 C39.915,303.723 46.557,382.518 56.079,436.392 " fill="none" id="CreateAnalysisController-to-Company" style="stroke:#A80036;stroke-width:0.9;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="56.889,440.874,58.9952,432.2639,56.0908,436.4454,51.9093,433.541,56.889,440.874" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[ffa5d00491470653bee8605e4148bcfa]
+link CreateAnalysisController to Analysis--><path codeLine="35" d="M196.956,185.544 C211.968,200.979 226.872,219.861 235.35,240.3 C264.978,311.679 256.014,337.743 243.45,414 C240.858,429.75 235.728,446.508 230.508,460.953 " fill="none" id="CreateAnalysisController-to-Analysis" style="stroke:#A80036;stroke-width:0.9;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="228.888,465.354,235.0689,459.0006,230.4455,461.1321,228.3139,456.5086,228.888,465.354" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[bb8c7a9781bdad171027593ee05c1304]
+link CreateAnalysisController to LaboratoryCoordinator--><path codeLine="36" d="M149.85,185.472 C149.85,200.592 149.85,218.304 149.85,235.377 " fill="none" id="CreateAnalysisController-to-LaboratoryCoordinator" style="stroke:#A80036;stroke-width:0.9;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="149.85,240.174,153.45,232.074,149.85,235.674,146.25,232.074,149.85,240.174" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[ff4598600f1a685eaa9e2ec0239f9867]
+link LaboratoryCoordinator to Company--><path codeLine="37" d="M123.363,370.854 C114.642,392.076 104.958,415.629 96.291,436.689 " fill="none" id="LaboratoryCoordinator-to-Company" style="stroke:#A80036;stroke-width:0.9;"/><polygon fill="#A80036" points="94.572,440.874,100.9849,434.7548,96.2854,436.7129,94.3272,432.0134,94.572,440.874" style="stroke:#A80036;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="50.4" x="111.15" y="410.8456">Works for</text><!--MD5=[2b5a4ba0a4d37acb49540d37581774de]
+link LaboratoryCoordinator to Analysis--><path codeLine="38" d="M171.522,370.854 C181.602,400.833 193.257,435.456 201.906,461.16 " fill="none" id="LaboratoryCoordinator-to-Analysis" style="stroke:#A80036;stroke-width:0.9;"/><polygon fill="#A80036" points="203.373,465.534,204.1869,456.7075,201.9307,461.2714,197.3667,459.0152,203.373,465.534" style="stroke:#A80036;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="49.5" x="185.85" y="410.8456">Requests</text><!--MD5=[eed08e3e62c7d859811e800b3e3281ab]
+@startuml
+'https://plantuml.com/class-diagram
+
+class CreateAnalysisUI {
+}
+class CreateAnalysisController{
+getTestAnalysis()
+createAnalysis()
+saveAnalysis()
+}
+class Company {
+getTestAnalysis()
+getTestStore()
+getTestByCode()
+getValidatedTests()
+ValidateAnalysis(Analysis)
+saveAnalysis()
+}
+class Analysis {
+graphs
+statistics
+}
+
+class LaboratoryCoordinator {
+String employeeID
+String organizationRole
+String name
+String address
+Integer phoneNumber
+String email
+Integer soc
+}
+
+CreateAnalysisUI ..> CreateAnalysisController
+CreateAnalysisController ..> Company
+CreateAnalysisController ..> Analysis
+CreateAnalysisController ..> LaboratoryCoordinator
+LaboratoryCoordinator - -> Company : Works for
+LaboratoryCoordinator - -> Analysis : Requests
+@enduml
+
+@startuml
+
+class CreateAnalysisUI {
+}
+class CreateAnalysisController{
+getTestAnalysis()
+createAnalysis()
+saveAnalysis()
+}
+class Company {
+getTestAnalysis()
+getTestStore()
+getTestByCode()
+getValidatedTests()
+ValidateAnalysis(Analysis)
+saveAnalysis()
+}
+class Analysis {
+graphs
+statistics
+}
+
+class LaboratoryCoordinator {
+String employeeID
+String organizationRole
+String name
+String address
+Integer phoneNumber
+String email
+Integer soc
+}
+
+CreateAnalysisUI ..> CreateAnalysisController
+CreateAnalysisController ..> Company
+CreateAnalysisController ..> Analysis
+CreateAnalysisController ..> LaboratoryCoordinator
+LaboratoryCoordinator - -> Company : Works for
+LaboratoryCoordinator - -> Analysis : Requests
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 10:25:05 GMT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

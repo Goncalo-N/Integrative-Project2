@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="866.4px" preserveAspectRatio="none" style="width:1466px;height:866px;" version="1.1" viewBox="0 0 1466 866" width="1466.4px" zoomAndPan="magnify"><defs><filter height="300%" id="faay2oh2i9nzm" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="1.6000000000000003"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="3.2000000000000006" dy="3.2000000000000006" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="704.4813" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="35.6" y="79.6875"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="37.3625" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="338.8" y="97.5688"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="434.1875" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="338.8" y="159.2125"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="166.4875" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="338.8" y="617.6813"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="434.1875" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="629.2" y="159.2125"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="142.2063" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="629.2" y="641.9625"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="24" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="750.8" y="240.8563"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="24" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="853.2" y="309.1375"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="24" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="949.6" y="377.4188"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="134.6188" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="1030.8" y="458.7813"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="117.925" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="1030.8" y="666.2438"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:5.0,5.0;" x1="39.2" x2="39.2" y1="71.6875" y2="798.5688"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:5.0,5.0;" x1="342.8" x2="342.8" y1="71.6875" y2="798.5688"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:5.0,5.0;" x1="633.2" x2="633.2" y1="71.6875" y2="798.5688"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:5.0,5.0;" x1="754.8" x2="754.8" y1="71.6875" y2="798.5688"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:5.0,5.0;" x1="857.2" x2="857.2" y1="71.6875" y2="798.5688"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:5.0,5.0;" x1="953.2" x2="953.2" y1="71.6875" y2="798.5688"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:5.0,5.0;" x1="1034.8" x2="1034.8" y1="71.6875" y2="798.5688"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:5.0,5.0;" x1="1438" x2="1438" y1="498.8688" y2="798.5688"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="66.4" x="4" y="69.2266">Administrator</text><ellipse cx="39.6" cy="12" fill="#FEFECE" filter="url(#faay2oh2i9nzm)" rx="6.4" ry="6.4" style="stroke:#A80036;stroke-width:1.6000000000000003;"/><path d="M39.6,18.4 L39.6,40 M29.2,24.8 L50,24.8 M39.6,40 L29.2,52 M39.6,40 L50,52 " fill="none" filter="url(#faay2oh2i9nzm)" style="stroke:#A80036;stroke-width:1.6000000000000003;"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="66.4" x="4" y="809.3953">Administrator</text><ellipse cx="39.6" cy="819.8563" fill="#FEFECE" filter="url(#faay2oh2i9nzm)" rx="6.4" ry="6.4" style="stroke:#A80036;stroke-width:1.6000000000000003;"/><path d="M39.6,826.2563 L39.6,847.8563 M29.2,832.6563 L50,832.6563 M39.6,847.8563 L29.2,859.8563 M39.6,847.8563 L50,859.8563 " fill="none" filter="url(#faay2oh2i9nzm)" style="stroke:#A80036;stroke-width:1.6000000000000003;"/><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="25.2875" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="81.6" x="300.4" y="42.4"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="70.4" x="306" y="59.6266">:CreateEMPUI</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="25.2875" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="81.6" x="300.4" y="797.7688"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="70.4" x="306" y="814.9953">:CreateEMPUI</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="25.2875" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="121.6" x="570.8" y="42.4"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="110.4" x="576.4" y="59.6266">:CreateEMPController</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="25.2875" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="121.6" x="570.8" y="797.7688"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="110.4" x="576.4" y="814.9953">:CreateEMPController</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="25.2875" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="89.6" x="708.4" y="42.4"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="78.4" x="714" y="59.6266">ApplicationPOT</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="25.2875" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="89.6" x="708.4" y="797.7688"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="78.4" x="714" y="814.9953">ApplicationPOT</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="39.375" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="92.8" x="809.2" y="28.3125"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="19.2" x="846" y="45.5391">app</text><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="81.6" x="814.8" y="59.6266">:ApplicationPOT</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="39.375" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="92.8" x="809.2" y="797.7688"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="19.2" x="846" y="814.9953">app</text><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="81.6" x="814.8" y="829.0828">:ApplicationPOT</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="39.375" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="77.6" x="913.2" y="28.3125"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="38.4" x="932.8" y="45.5391">session</text><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="66.4" x="918.8" y="59.6266">:UserSession</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="39.375" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="77.6" x="913.2" y="797.7688"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="38.4" x="932.8" y="814.9953">session</text><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="66.4" x="918.8" y="829.0828">:UserSession</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="39.375" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="62.4" x="1002" y="28.3125"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="27.2" x="1019.6" y="45.5391">comp</text><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="51.2" x="1007.6" y="59.6266">:Company</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="39.375" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="62.4" x="1002" y="797.7688"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="27.2" x="1019.6" y="814.9953">comp</text><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="51.2" x="1007.6" y="829.0828">:Company</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="39.375" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="37.6" x="1418" y="797.7688"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="21.6" x="1426" y="814.9953">emp</text><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="26.4" x="1423.6" y="829.0828">:EMP</text><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="704.4813" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="35.6" y="79.6875"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="37.3625" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="338.8" y="97.5688"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="434.1875" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="338.8" y="159.2125"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="166.4875" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="338.8" y="617.6813"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="434.1875" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="629.2" y="159.2125"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="142.2063" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="629.2" y="641.9625"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="24" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="750.8" y="240.8563"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="24" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="853.2" y="309.1375"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="24" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="949.6" y="377.4188"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="134.6188" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="1030.8" y="458.7813"/><rect fill="#FFFFFF" filter="url(#faay2oh2i9nzm)" height="117.925" style="stroke:#A80036;stroke-width:0.8000000000000002;" width="8" x="1030.8" y="666.2438"/><polygon fill="#A80036" points="329.2,94.3688,337.2,97.5688,329.2,100.7688,332.4,97.5688" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="43.6" x2="334" y1="97.5688" y2="97.5688"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="5.6" x="49.2" y="93.6836">1</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="123.2" x="58" y="93.6836">asks to create a new EMP</text><polygon fill="#A80036" points="52.4,131.7313,44.4,134.9313,52.4,138.1313,49.2,134.9313" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:2.0,2.0;" x1="47.6" x2="342" y1="134.9313" y2="134.9313"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="5.6" x="57.2" y="124.5055">2</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="264" x="66" y="117.9648">requests data (empID, organizationRole, name,  address,</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="121.6" x="69.2" y="131.0461">email, phoneNumber, soc)</text><polygon fill="#A80036" points="329.2,156.0125,337.2,159.2125,329.2,162.4125,332.4,159.2125" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="43.6" x2="334" y1="159.2125" y2="159.2125"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="5.6" x="49.2" y="155.3273">3</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="97.6" x="58" y="155.3273">types requested data</text><polygon fill="#A80036" points="619.6,213.375,627.6,216.575,619.6,219.775,622.8,216.575" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:2.0,2.0;" x1="346.8" x2="624.4" y1="216.575" y2="216.575"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="5.6" x="352.4" y="206.1492">4</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="251.2" x="361.2" y="199.6086">CreateEMP(empID, organizationRole, name,  address,</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="121.6" x="364.4" y="212.6898">email, phoneNumber, soc)</text><polygon fill="#A80036" points="741.2,237.6563,749.2,240.8563,741.2,244.0563,744.4,240.8563" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="637.2" x2="746" y1="240.8563" y2="240.8563"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="5.6" x="642.8" y="236.9711">5</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="89.6" x="651.6" y="236.9711">app = getInstance()</text><polygon fill="#A80036" points="843.6,305.9375,851.6,309.1375,843.6,312.3375,846.8,309.1375" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="637.2" x2="848.4" y1="309.1375" y2="309.1375"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="5.6" x="642.8" y="305.2523">6</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="140.8" x="651.6" y="305.2523">session = getCurrentSession()</text><polygon fill="#A80036" points="940,374.2188,948,377.4188,940,380.6188,943.2,377.4188" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="637.2" x2="944.8" y1="377.4188" y2="377.4188"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="5.6" x="642.8" y="373.5336">7</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="106.4" x="651.6" y="373.5336">email = getUserEmail()</text><polygon fill="#A80036" points="1021.2,455.5813,1029.2,458.7813,1021.2,461.9813,1024.4,458.7813" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="637.2" x2="1026" y1="458.7813" y2="458.7813"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="5.6" x="642.8" y="448.3555">8</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="279.2" x="651.6" y="441.8148">EMP=createEMP(empID, organizationRole, name,  address,</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="121.6" x="654.8" y="454.8961">email, phoneNumber, soc)</text><polygon fill="#A80036" points="1408.4,479.8625,1416.4,483.0625,1408.4,486.2625,1411.6,483.0625" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:2.0,2.0;" x1="1038.8" x2="1413.2" y1="483.0625" y2="483.0625"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="5.6" x="1044.4" y="479.1773">9</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="351.2" x="1053.2" y="479.1773">create(empID, organizationRole, name,  address, email, phoneNumber, soc)</text><rect fill="#FEFECE" filter="url(#faay2oh2i9nzm)" height="39.375" style="stroke:#A80036;stroke-width:1.2000000000000002;" width="37.6" x="1418" y="465.1813"/><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="21.6" x="1426" y="482.4078">emp</text><text fill="#000000" font-family="sans-serif" font-size="11.2" lengthAdjust="spacing" textLength="26.4" x="1423.6" y="496.4953">:EMP</text><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="1038.8" x2="1072.4" y1="534.4375" y2="534.4375"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="1072.4" x2="1072.4" y1="534.4375" y2="544.8375"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="1039.6" x2="1072.4" y1="544.8375" y2="544.8375"/><polygon fill="#A80036" points="1047.6,541.6375,1039.6,544.8375,1047.6,548.0375,1044.4,544.8375" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="11.2" x="1044.4" y="530.5523">10</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="87.2" x="1058.8" y="530.5523">validateEMP(EMP)</text><polygon fill="#A80036" points="355.6,565.9188,347.6,569.1188,355.6,572.3188,352.4,569.1188" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:2.0,2.0;" x1="350.8" x2="628.4" y1="569.1188" y2="569.1188"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="11.2" x="360.4" y="565.2336">11</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="25.6" x="374.8" y="565.2336">result</text><polygon fill="#A80036" points="52.4,590.2,44.4,593.4,52.4,596.6,49.2,593.4" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:2.0,2.0;" x1="47.6" x2="342" y1="593.4" y2="593.4"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="11.2" x="57.2" y="589.5148">12</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="188.8" x="71.6" y="589.5148">shows all data and requests confirmation</text><polygon fill="#A80036" points="329.2,614.4813,337.2,617.6813,329.2,620.8813,332.4,617.6813" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="43.6" x2="334" y1="617.6813" y2="617.6813"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="11.2" x="49.2" y="613.7961">13</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="80" x="63.6" y="613.7961">confirms the data</text><polygon fill="#A80036" points="619.6,638.7625,627.6,641.9625,619.6,645.1625,622.8,641.9625" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="346.8" x2="624.4" y1="641.9625" y2="641.9625"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="11.2" x="352.4" y="638.0773">14</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="50.4" x="366.8" y="638.0773">saveEMP()</text><polygon fill="#A80036" points="1021.2,663.0438,1029.2,666.2438,1021.2,669.4438,1024.4,666.2438" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="637.2" x2="1026" y1="666.2438" y2="666.2438"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="11.2" x="642.8" y="662.3586">15</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="73.6" x="657.2" y="662.3586">saveEMP(EMP)</text><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="1038.8" x2="1072.4" y1="690.525" y2="690.525"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="1072.4" x2="1072.4" y1="690.525" y2="700.925"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="1039.6" x2="1072.4" y1="700.925" y2="700.925"/><polygon fill="#A80036" points="1047.6,697.725,1039.6,700.925,1047.6,704.125,1044.4,700.925" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="11.2" x="1044.4" y="686.6398">16</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="87.2" x="1058.8" y="686.6398">validateEMP(EMP)</text><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="1038.8" x2="1072.4" y1="725.2063" y2="725.2063"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="1072.4" x2="1072.4" y1="725.2063" y2="735.6063"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;" x1="1039.6" x2="1072.4" y1="735.6063" y2="735.6063"/><polygon fill="#A80036" points="1047.6,732.4063,1039.6,735.6063,1047.6,738.8063,1044.4,735.6063" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="11.2" x="1044.4" y="721.3211">17</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="69.6" x="1058.8" y="721.3211">addEMP(EMP)</text><polygon fill="#A80036" points="355.6,756.6875,347.6,759.8875,355.6,763.0875,352.4,759.8875" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:2.0,2.0;" x1="350.8" x2="628.4" y1="759.8875" y2="759.8875"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="11.2" x="360.4" y="756.0023">18</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="25.6" x="374.8" y="756.0023">result</text><polygon fill="#A80036" points="48.4,780.9688,40.4,784.1688,48.4,787.3688,45.2,784.1688" style="stroke:#A80036;stroke-width:0.8000000000000002;"/><line style="stroke:#A80036;stroke-width:0.8000000000000002;stroke-dasharray:2.0,2.0;" x1="43.6" x2="342" y1="784.1688" y2="784.1688"/><text fill="#000000" font-family="sans-serif" font-size="10.4" font-weight="bold" lengthAdjust="spacing" textLength="11.2" x="53.2" y="780.2836">19</text><text fill="#000000" font-family="sans-serif" font-size="10.4" lengthAdjust="spacing" textLength="121.6" x="67.6" y="780.2836">informs operation success</text><!--MD5=[01f9155496a1b5096719d161c00e767d]
+@startuml
+autonumber
+'hide footbox
+actor "Administrator" as ADM
+
+participant ":CreateEMPUI" as UI
+participant ":CreateEMPController" as CTRL
+participant "ApplicationPOT" as _APP
+participant "app\n:ApplicationPOT" as APP
+participant "session\n:UserSession" as SESSION
+participant "comp\n:Company" as COMP
+participant "emp\n:EMP" as EMP
+
+activate ADM
+ADM -> UI : asks to create a new EMP
+activate UI
+UI - -> ADM : requests data (empID, organizationRole, name,  address, \n email, phoneNumber, soc)
+deactivate UI
+
+ADM -> UI : types requested data
+activate UI
+|||
+activate CTRL
+UI - -> CTRL : CreateEMP(empID, organizationRole, name,  address, \n email, phoneNumber, soc)
+
+CTRL -> _APP: app = getInstance()
+activate _APP
+|||
+deactivate _APP
+
+CTRL -> APP: session = getCurrentSession()
+activate APP
+|||
+deactivate APP
+
+CTRL -> SESSION: email = getUserEmail()
+activate SESSION
+|||
+deactivate SESSION
+
+CTRL -> COMP: EMP=createEMP(empID, organizationRole, name,  address, \n email, phoneNumber, soc)
+activate COMP
+
+COMP - -> EMP**: create(empID, organizationRole, name,  address, email, phoneNumber, soc)
+COMP -> COMP: validateEMP(EMP)
+
+CTRL - -> UI: result
+
+UI - -> ADM: shows all data and requests confirmation
+deactivate COMP
+deactivate COMP
+deactivate CTRL
+deactivate UI
+
+ADM -> UI : confirms the data
+activate UI
+UI -> CTRL : saveEMP()
+activate CTRL
+
+CTRL -> COMP : saveEMP(EMP)
+activate COMP
+
+COMP -> COMP: validateEMP(EMP)
+COMP -> COMP: addEMP(EMP)
+
+CTRL - -> UI: result
+
+UI - -> ADM : informs operation success
+deactivate COMP
+deactivate CTRL
+deactivate UI
+
+deactivate ADM
+
+@enduml
+
+@startuml
+autonumber
+actor "Administrator" as ADM
+
+participant ":CreateEMPUI" as UI
+participant ":CreateEMPController" as CTRL
+participant "ApplicationPOT" as _APP
+participant "app\n:ApplicationPOT" as APP
+participant "session\n:UserSession" as SESSION
+participant "comp\n:Company" as COMP
+participant "emp\n:EMP" as EMP
+
+activate ADM
+ADM -> UI : asks to create a new EMP
+activate UI
+UI - -> ADM : requests data (empID, organizationRole, name,  address, \n email, phoneNumber, soc)
+deactivate UI
+
+ADM -> UI : types requested data
+activate UI
+|||
+activate CTRL
+UI - -> CTRL : CreateEMP(empID, organizationRole, name,  address, \n email, phoneNumber, soc)
+
+CTRL -> _APP: app = getInstance()
+activate _APP
+|||
+deactivate _APP
+
+CTRL -> APP: session = getCurrentSession()
+activate APP
+|||
+deactivate APP
+
+CTRL -> SESSION: email = getUserEmail()
+activate SESSION
+|||
+deactivate SESSION
+
+CTRL -> COMP: EMP=createEMP(empID, organizationRole, name,  address, \n email, phoneNumber, soc)
+activate COMP
+
+COMP - -> EMP**: create(empID, organizationRole, name,  address, email, phoneNumber, soc)
+COMP -> COMP: validateEMP(EMP)
+
+CTRL - -> UI: result
+
+UI - -> ADM: shows all data and requests confirmation
+deactivate COMP
+deactivate COMP
+deactivate CTRL
+deactivate UI
+
+ADM -> UI : confirms the data
+activate UI
+UI -> CTRL : saveEMP()
+activate CTRL
+
+CTRL -> COMP : saveEMP(EMP)
+activate COMP
+
+COMP -> COMP: validateEMP(EMP)
+COMP -> COMP: addEMP(EMP)
+
+CTRL - -> UI: result
+
+UI - -> ADM : informs operation success
+deactivate COMP
+deactivate CTRL
+deactivate UI
+
+deactivate ADM
+
+@enduml
+
+PlantUML version 1.2021.5(Sun Apr 25 12:20:28 BST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: Dynamic Code Evolution 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: GB
+--></g></svg>

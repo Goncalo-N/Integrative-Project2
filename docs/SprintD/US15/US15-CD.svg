@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="425.7px" preserveAspectRatio="none" style="width:558px;height:425px;" version="1.1" viewBox="0 0 558 425" width="558.9px" zoomAndPan="magnify"><defs><filter height="300%" id="flnru97ukdfgg" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="1.8"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="3.6" dy="3.6" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[e701ef8729a86a71c44dc5c27cbd1e18]
+class ValidateTestUI--><rect codeLine="5" fill="#FEFECE" filter="url(#flnru97ukdfgg)" height="43.2" id="ValidateTestUI" style="stroke:#A80036;stroke-width:1.35;" width="100.8" x="228.15" y="6.3"/><ellipse cx="241.65" cy="20.7" fill="#ADD1B2" rx="9.9" ry="9.9" style="stroke:#A80036;stroke-width:0.9;"/><path d="M243.45,17.55 Q243.6328,17.1 243.8438,16.875 Q244.0547,16.65 244.2938,16.65 Q244.7156,16.65 244.9828,16.9031 Q245.25,17.1563 245.25,17.7469 L245.25,19.1531 Q245.25,19.7438 244.9969,19.9969 Q244.7438,20.25 244.35,20.25 Q243.9984,20.25 243.7734,20.0953 Q243.5484,19.9406 243.45,19.5328 Q243.4078,19.2516 243.2531,19.0969 Q242.9719,18.8016 242.4656,18.6328 Q241.9594,18.45 241.4531,18.45 Q240.8203,18.45 240.2859,18.7031 Q239.7656,18.9563 239.3578,19.5188 Q238.95,20.0813 238.95,20.8547 L238.95,21.6844 Q238.95,22.6125 239.7094,23.2313 Q240.4688,23.85 241.8188,23.85 Q242.6203,23.85 243.1828,23.6672 Q243.5063,23.5688 243.8719,23.2453 Q244.1109,23.0625 244.2375,23.0063 Q244.3641,22.95 244.5188,22.95 Q244.8141,22.95 245.025,23.1891 Q245.25,23.4141 245.25,23.7375 Q245.25,24.0469 244.9406,24.4125 Q244.4906,24.9469 243.7734,25.2422 Q242.8313,25.65 241.6781,25.65 Q240.3281,25.65 239.2453,25.1156 Q238.3734,24.6938 237.7547,23.7797 Q237.15,22.8656 237.15,21.7828 L237.15,20.7984 Q237.15,19.6734 237.6844,18.6891 Q238.2328,17.7047 239.175,17.1844 Q240.1313,16.65 241.2,16.65 Q241.8469,16.65 242.4094,16.875 Q242.9719,17.1 243.45,17.55 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="72" x="254.25" y="25.1191">ValidateTestUI</text><line style="stroke:#A80036;stroke-width:1.35;" x1="229.05" x2="328.05" y1="35.1" y2="35.1"/><line style="stroke:#A80036;stroke-width:1.35;" x1="229.05" x2="328.05" y1="42.3" y2="42.3"/><!--MD5=[a384de27f396e2e81a9835fa4098d625]
+class ValidateTestController--><rect codeLine="7" fill="#FEFECE" filter="url(#flnru97ukdfgg)" height="68.1047" id="ValidateTestController" style="stroke:#A80036;stroke-width:1.35;" width="138.6" x="209.25" y="104.4"/><ellipse cx="222.75" cy="118.8" fill="#ADD1B2" rx="9.9" ry="9.9" style="stroke:#A80036;stroke-width:0.9;"/><path d="M224.55,115.65 Q224.7328,115.2 224.9438,114.975 Q225.1547,114.75 225.3938,114.75 Q225.8156,114.75 226.0828,115.0031 Q226.35,115.2563 226.35,115.8469 L226.35,117.2531 Q226.35,117.8438 226.0969,118.0969 Q225.8438,118.35 225.45,118.35 Q225.0984,118.35 224.8734,118.1953 Q224.6484,118.0406 224.55,117.6328 Q224.5078,117.3516 224.3531,117.1969 Q224.0719,116.9016 223.5656,116.7328 Q223.0594,116.55 222.5531,116.55 Q221.9203,116.55 221.3859,116.8031 Q220.8656,117.0563 220.4578,117.6188 Q220.05,118.1813 220.05,118.9547 L220.05,119.7844 Q220.05,120.7125 220.8094,121.3313 Q221.5688,121.95 222.9188,121.95 Q223.7203,121.95 224.2828,121.7672 Q224.6063,121.6688 224.9719,121.3453 Q225.2109,121.1625 225.3375,121.1063 Q225.4641,121.05 225.6188,121.05 Q225.9141,121.05 226.125,121.2891 Q226.35,121.5141 226.35,121.8375 Q226.35,122.1469 226.0406,122.5125 Q225.5906,123.0469 224.8734,123.3422 Q223.9313,123.75 222.7781,123.75 Q221.4281,123.75 220.3453,123.2156 Q219.4734,122.7938 218.8547,121.8797 Q218.25,120.9656 218.25,119.8828 L218.25,118.8984 Q218.25,117.7734 218.7844,116.7891 Q219.3328,115.8047 220.275,115.2844 Q221.2313,114.75 222.3,114.75 Q222.9469,114.75 223.5094,114.975 Q224.0719,115.2 224.55,115.65 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="109.8" x="235.35" y="123.2191">ValidateTestController</text><line style="stroke:#A80036;stroke-width:1.35;" x1="210.15" x2="346.95" y1="133.2" y2="133.2"/><line style="stroke:#A80036;stroke-width:1.35;" x1="210.15" x2="346.95" y1="140.4" y2="140.4"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="82.8" x="214.65" y="154.2771">+createValidation()</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="76.5" x="214.65" y="166.7294">+saveValidation()</text><!--MD5=[02e4b9b7573f1156f41e60aa5b4e25a4]
+class Company--><rect codeLine="12" fill="#FEFECE" filter="url(#flnru97ukdfgg)" height="55.6523" id="Company" style="stroke:#A80036;stroke-width:1.35;" width="135.9" x="6.3" y="320.85"/><ellipse cx="46.575" cy="335.25" fill="#ADD1B2" rx="9.9" ry="9.9" style="stroke:#A80036;stroke-width:0.9;"/><path d="M48.375,332.1 Q48.5578,331.65 48.7688,331.425 Q48.9797,331.2 49.2188,331.2 Q49.6406,331.2 49.9078,331.4531 Q50.175,331.7063 50.175,332.2969 L50.175,333.7031 Q50.175,334.2938 49.9219,334.5469 Q49.6688,334.8 49.275,334.8 Q48.9234,334.8 48.6984,334.6453 Q48.4734,334.4906 48.375,334.0828 Q48.3328,333.8016 48.1781,333.6469 Q47.8969,333.3516 47.3906,333.1828 Q46.8844,333 46.3781,333 Q45.7453,333 45.2109,333.2531 Q44.6906,333.5063 44.2828,334.0688 Q43.875,334.6313 43.875,335.4047 L43.875,336.2344 Q43.875,337.1625 44.6344,337.7813 Q45.3938,338.4 46.7438,338.4 Q47.5453,338.4 48.1078,338.2172 Q48.4313,338.1188 48.7969,337.7953 Q49.0359,337.6125 49.1625,337.5563 Q49.2891,337.5 49.4438,337.5 Q49.7391,337.5 49.95,337.7391 Q50.175,337.9641 50.175,338.2875 Q50.175,338.5969 49.8656,338.9625 Q49.4156,339.4969 48.6984,339.7922 Q47.7563,340.2 46.6031,340.2 Q45.2531,340.2 44.1703,339.6656 Q43.2984,339.2438 42.6797,338.3297 Q42.075,337.4156 42.075,336.3328 L42.075,335.3484 Q42.075,334.2234 42.6094,333.2391 Q43.1578,332.2547 44.1,331.7344 Q45.0563,331.2 46.125,331.2 Q46.7719,331.2 47.3344,331.425 Q47.8969,331.65 48.375,332.1 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="47.7" x="65.025" y="339.6691">Company</text><line style="stroke:#A80036;stroke-width:1.35;" x1="7.2" x2="141.3" y1="349.65" y2="349.65"/><line style="stroke:#A80036;stroke-width:1.35;" x1="7.2" x2="141.3" y1="356.85" y2="356.85"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="125.1" x="11.7" y="370.7271">+store = getValidationStore()</text><!--MD5=[052425de1c0eb6cc1c1b48342b0bb88f]
+class LaboratoryCoordinator--><rect codeLine="16" fill="#FEFECE" filter="url(#flnru97ukdfgg)" height="130.3664" id="LaboratoryCoordinator" style="stroke:#A80036;stroke-width:1.35;" width="139.5" x="208.8" y="283.5"/><ellipse cx="222.3" cy="297.9" fill="#ADD1B2" rx="9.9" ry="9.9" style="stroke:#A80036;stroke-width:0.9;"/><path d="M224.1,294.75 Q224.2828,294.3 224.4938,294.075 Q224.7047,293.85 224.9438,293.85 Q225.3656,293.85 225.6328,294.1031 Q225.9,294.3563 225.9,294.9469 L225.9,296.3531 Q225.9,296.9438 225.6469,297.1969 Q225.3938,297.45 225,297.45 Q224.6484,297.45 224.4234,297.2953 Q224.1984,297.1406 224.1,296.7328 Q224.0578,296.4516 223.9031,296.2969 Q223.6219,296.0016 223.1156,295.8328 Q222.6094,295.65 222.1031,295.65 Q221.4703,295.65 220.9359,295.9031 Q220.4156,296.1563 220.0078,296.7188 Q219.6,297.2813 219.6,298.0547 L219.6,298.8844 Q219.6,299.8125 220.3594,300.4313 Q221.1188,301.05 222.4688,301.05 Q223.2703,301.05 223.8328,300.8672 Q224.1563,300.7688 224.5219,300.4453 Q224.7609,300.2625 224.8875,300.2063 Q225.0141,300.15 225.1688,300.15 Q225.4641,300.15 225.675,300.3891 Q225.9,300.6141 225.9,300.9375 Q225.9,301.2469 225.5906,301.6125 Q225.1406,302.1469 224.4234,302.4422 Q223.4813,302.85 222.3281,302.85 Q220.9781,302.85 219.8953,302.3156 Q219.0234,301.8938 218.4047,300.9797 Q217.8,300.0656 217.8,298.9828 L217.8,297.9984 Q217.8,296.8734 218.3344,295.8891 Q218.8828,294.9047 219.825,294.3844 Q220.7813,293.85 221.85,293.85 Q222.4969,293.85 223.0594,294.075 Q223.6219,294.3 224.1,294.75 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="110.7" x="234.9" y="302.3191">LaboratoryCoordinator</text><line style="stroke:#A80036;stroke-width:1.35;" x1="209.7" x2="347.4" y1="312.3" y2="312.3"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="53.1" x="214.2" y="326.1771">-employeeID</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="75.6" x="214.2" y="338.6294">-organizationRole</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="27" x="214.2" y="351.0817">-name</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="39.6" x="214.2" y="363.5341">-address</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="63.9" x="214.2" y="375.9864">-phoneNumber</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="25.2" x="214.2" y="388.4388">-email</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="19.8" x="214.2" y="400.8911">-soc</text><line style="stroke:#A80036;stroke-width:1.35;" x1="209.7" x2="347.4" y1="406.6664" y2="406.6664"/><!--MD5=[8d81c63fe4c4c7462c02ccb7bbd6ac0b]
+class ValidationStore--><rect codeLine="26" fill="#FEFECE" filter="url(#flnru97ukdfgg)" height="80.557" id="ValidationStore" style="stroke:#A80036;stroke-width:1.35;" width="139.5" x="406.8" y="308.25"/><ellipse cx="436.5" cy="322.65" fill="#ADD1B2" rx="9.9" ry="9.9" style="stroke:#A80036;stroke-width:0.9;"/><path d="M438.3,319.5 Q438.4828,319.05 438.6938,318.825 Q438.9047,318.6 439.1438,318.6 Q439.5656,318.6 439.8328,318.8531 Q440.1,319.1063 440.1,319.6969 L440.1,321.1031 Q440.1,321.6938 439.8469,321.9469 Q439.5938,322.2 439.2,322.2 Q438.8484,322.2 438.6234,322.0453 Q438.3984,321.8906 438.3,321.4828 Q438.2578,321.2016 438.1031,321.0469 Q437.8219,320.7516 437.3156,320.5828 Q436.8094,320.4 436.3031,320.4 Q435.6703,320.4 435.1359,320.6531 Q434.6156,320.9063 434.2078,321.4688 Q433.8,322.0313 433.8,322.8047 L433.8,323.6344 Q433.8,324.5625 434.5594,325.1813 Q435.3188,325.8 436.6688,325.8 Q437.4703,325.8 438.0328,325.6172 Q438.3563,325.5188 438.7219,325.1953 Q438.9609,325.0125 439.0875,324.9563 Q439.2141,324.9 439.3688,324.9 Q439.6641,324.9 439.875,325.1391 Q440.1,325.3641 440.1,325.6875 Q440.1,325.9969 439.7906,326.3625 Q439.3406,326.8969 438.6234,327.1922 Q437.6813,327.6 436.5281,327.6 Q435.1781,327.6 434.0953,327.0656 Q433.2234,326.6438 432.6047,325.7297 Q432,324.8156 432,323.7328 L432,322.7484 Q432,321.6234 432.5344,320.6391 Q433.0828,319.6547 434.025,319.1344 Q434.9813,318.6 436.05,318.6 Q436.6969,318.6 437.2594,318.825 Q437.8219,319.05 438.3,319.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="10.8" lengthAdjust="spacing" textLength="74.7" x="452.7" y="327.0691">ValidationStore</text><line style="stroke:#A80036;stroke-width:1.35;" x1="407.7" x2="545.4" y1="337.05" y2="337.05"/><line style="stroke:#A80036;stroke-width:1.35;" x1="407.7" x2="545.4" y1="344.25" y2="344.25"/><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="128.7" x="412.2" y="358.1271">+validation=createValidation()</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="105.3" x="412.2" y="370.5794">+checkDuplicates(code)</text><text fill="#000000" font-family="sans-serif" font-size="9.9" lengthAdjust="spacing" textLength="76.5" x="412.2" y="383.0317">+saveValidation()</text><!--MD5=[fdd8c1fc10394f2433e9e56b9d7f04ea]
+link ValidateTestUI to ValidateTestController--><path codeLine="32" d="M278.55,49.536 C278.55,63.639 278.55,82.719 278.55,99.522 " fill="none" id="ValidateTestUI-to-ValidateTestController" style="stroke:#A80036;stroke-width:0.9;"/><polygon fill="#A80036" points="278.55,104.193,282.15,96.093,278.55,99.693,274.95,96.093,278.55,104.193" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[2a6fd03b0c665f422f5a15571418b28a]
+link ValidateTestController to Company--><path codeLine="33" d="M245.727,172.971 C206.64,212.841 141.912,278.847 104.157,317.358 " fill="none" id="ValidateTestController-to-Company" style="stroke:#A80036;stroke-width:0.9;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="100.809,320.76,109.0496,317.4946,103.9587,317.546,103.9073,312.4551,100.809,320.76" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[baa6ff38ec20def42e063e01f85f91ae]
+link Company to LaboratoryCoordinator--><path codeLine="34" d="M142.281,348.75 C162.135,348.75 183.933,348.75 204.165,348.75 " fill="none" id="Company-to-LaboratoryCoordinator" style="stroke:#A80036;stroke-width:0.9;"/><polygon fill="#A80036" points="208.728,348.75,200.628,345.15,204.228,348.75,200.628,352.35,208.728,348.75" style="stroke:#A80036;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="33.3" x="158.85" y="342.8956">knows</text><!--MD5=[b0d5f91f6c4ff1e72576e3d810d41a6a]
+link ValidateTestController to LaboratoryCoordinator--><path codeLine="35" d="M278.55,172.971 C278.55,201.375 278.55,243.054 278.55,278.604 " fill="none" id="ValidateTestController-to-LaboratoryCoordinator" style="stroke:#A80036;stroke-width:0.9;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="278.55,283.347,282.15,275.247,278.55,278.847,274.95,275.247,278.55,283.347" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[948dad39b5624ad3795476a818250745]
+link LaboratoryCoordinator to ValidationStore--><path codeLine="36" d="M348.354,348.75 C365.661,348.75 384.264,348.75 401.796,348.75 " fill="none" id="LaboratoryCoordinator-to-ValidationStore" style="stroke:#A80036;stroke-width:0.9;"/><polygon fill="#A80036" points="406.71,348.75,398.61,345.15,402.21,348.75,398.61,352.35,406.71,348.75" style="stroke:#A80036;stroke-width:0.9;"/><text fill="#000000" font-family="sans-serif" font-size="11.7" lengthAdjust="spacing" textLength="25.2" x="364.95" y="342.8956">does</text><!--MD5=[1b5dbba1c5b9b3d840e04683ce677ea2]
+link ValidateTestController to ValidationStore--><path codeLine="37" d="M310.365,172.971 C344.322,208.71 398.241,265.446 435.411,304.56 " fill="none" id="ValidateTestController-to-ValidationStore" style="stroke:#A80036;stroke-width:0.9;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="438.723,308.052,435.7593,299.6982,435.6257,304.7876,430.5362,304.6539,438.723,308.052" style="stroke:#A80036;stroke-width:0.9;"/><!--MD5=[41828e79f00f611e1b758f886446e3a5]
+@startuml
+'https://plantuml.com/class-diagram
+
+skinparam classAttributeIconSize 0
+
+class ValidateTestUI
+
+class ValidateTestController {
++createValidation()
++saveValidation()
+}
+
+class Company {
++store = getValidationStore()
+}
+
+class LaboratoryCoordinator {
+-employeeID
+-organizationRole
+-name
+-address
+-phoneNumber
+-email
+-soc
+}
+
+class ValidationStore {
++validation=createValidation()
++checkDuplicates(code)
++saveValidation()
+}
+
+ValidateTestUI - -> ValidateTestController
+ValidateTestController ...> Company
+Company -> LaboratoryCoordinator : knows
+ValidateTestController ..> LaboratoryCoordinator
+LaboratoryCoordinator -> ValidationStore : does
+ValidateTestController ..> ValidationStore
+
+@enduml
+
+@startuml
+
+skinparam classAttributeIconSize 0
+
+class ValidateTestUI
+
+class ValidateTestController {
++createValidation()
++saveValidation()
+}
+
+class Company {
++store = getValidationStore()
+}
+
+class LaboratoryCoordinator {
+-employeeID
+-organizationRole
+-name
+-address
+-phoneNumber
+-email
+-soc
+}
+
+class ValidationStore {
++validation=createValidation()
++checkDuplicates(code)
++saveValidation()
+}
+
+ValidateTestUI - -> ValidateTestController
+ValidateTestController ...> Company
+Company -> LaboratoryCoordinator : knows
+ValidateTestController ..> LaboratoryCoordinator
+LaboratoryCoordinator -> ValidationStore : does
+ValidateTestController ..> ValidationStore
+
+@enduml
+
+PlantUML version 1.2021.4(Sun Apr 04 09:49:39 BST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: Dynamic Code Evolution 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="229.97px" preserveAspectRatio="none" style="width:418px;height:229px;" version="1.1" viewBox="0 0 418 229" width="418.46px" zoomAndPan="magnify"><defs><filter height="300%" id="fb7z3u0eoiyb9" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="1.22"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="2.44" dy="2.44" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><line style="stroke:#A80036;stroke-width:0.61;stroke-dasharray:5.0,5.0;" x1="28.67" x2="28.67" y1="54.6617" y2="177.9484"/><line style="stroke:#A80036;stroke-width:0.61;stroke-dasharray:5.0,5.0;" x1="392.84" x2="392.84" y1="54.6617" y2="177.9484"/><text fill="#000000" font-family="sans-serif" font-size="8.54" lengthAdjust="spacing" textLength="47.58" x="3.05" y="52.7853">Receptionist</text><ellipse cx="28.67" cy="9.15" fill="#FEFECE" filter="url(#fb7z3u0eoiyb9)" rx="4.88" ry="4.88" style="stroke:#A80036;stroke-width:1.22;"/><path d="M28.67,14.03 L28.67,30.5 M20.74,18.91 L36.6,18.91 M28.67,30.5 L20.74,39.65 M28.67,30.5 L36.6,39.65 " fill="none" filter="url(#fb7z3u0eoiyb9)" style="stroke:#A80036;stroke-width:1.22;"/><text fill="#000000" font-family="sans-serif" font-size="8.54" lengthAdjust="spacing" textLength="47.58" x="3.05" y="186.2037">Receptionist</text><ellipse cx="28.67" cy="194.1802" fill="#FEFECE" filter="url(#fb7z3u0eoiyb9)" rx="4.88" ry="4.88" style="stroke:#A80036;stroke-width:1.22;"/><path d="M28.67,199.0602 L28.67,215.5302 M20.74,203.9402 L36.6,203.9402 M28.67,215.5302 L20.74,224.6802 M28.67,215.5302 L36.6,224.6802 " fill="none" filter="url(#fb7z3u0eoiyb9)" style="stroke:#A80036;stroke-width:1.22;"/><rect fill="#FEFECE" filter="url(#fb7z3u0eoiyb9)" height="19.2817" style="stroke:#A80036;stroke-width:0.915;" width="36.6" x="373.32" y="32.33"/><text fill="#000000" font-family="sans-serif" font-size="8.54" lengthAdjust="spacing" textLength="28.06" x="377.59" y="45.4653">System</text><rect fill="#FEFECE" filter="url(#fb7z3u0eoiyb9)" height="19.2817" style="stroke:#A80036;stroke-width:0.915;" width="36.6" x="373.32" y="177.3384"/><text fill="#000000" font-family="sans-serif" font-size="8.54" lengthAdjust="spacing" textLength="28.06" x="377.59" y="190.4737">System</text><polygon fill="#A80036" points="385.52,71.9562,391.62,74.3962,385.52,76.8362,387.96,74.3962" style="stroke:#A80036;stroke-width:0.61;"/><line style="stroke:#A80036;stroke-width:0.61;" x1="28.67" x2="389.18" y1="74.3962" y2="74.3962"/><text fill="#000000" font-family="sans-serif" font-size="7.93" font-weight="bold" lengthAdjust="spacing" textLength="4.27" x="32.94" y="71.4337">1</text><text fill="#000000" font-family="sans-serif" font-size="7.93" lengthAdjust="spacing" textLength="100.65" x="39.65" y="71.4337">Asks to register a new client</text><polygon fill="#A80036" points="35.38,90.4706,29.28,92.9106,35.38,95.3506,32.94,92.9106" style="stroke:#A80036;stroke-width:0.61;"/><line style="stroke:#A80036;stroke-width:0.61;stroke-dasharray:2.0,2.0;" x1="31.72" x2="392.23" y1="92.9106" y2="92.9106"/><text fill="#000000" font-family="sans-serif" font-size="7.93" font-weight="bold" lengthAdjust="spacing" textLength="4.27" x="39.04" y="89.9482">2</text><text fill="#000000" font-family="sans-serif" font-size="7.93" lengthAdjust="spacing" textLength="342.82" x="45.75" y="89.9482">Asks for Citizen card number, NHS number, birth date, sex, TIN, phone number, e-mail and name</text><polygon fill="#A80036" points="385.52,108.9851,391.62,111.4251,385.52,113.8651,387.96,111.4251" style="stroke:#A80036;stroke-width:0.61;"/><line style="stroke:#A80036;stroke-width:0.61;" x1="28.67" x2="389.18" y1="111.4251" y2="111.4251"/><text fill="#000000" font-family="sans-serif" font-size="7.93" font-weight="bold" lengthAdjust="spacing" textLength="4.27" x="32.94" y="108.4626">3</text><text fill="#000000" font-family="sans-serif" font-size="7.93" lengthAdjust="spacing" textLength="75.64" x="39.65" y="108.4626">Types the information</text><polygon fill="#A80036" points="35.38,127.4995,29.28,129.9395,35.38,132.3795,32.94,129.9395" style="stroke:#A80036;stroke-width:0.61;"/><line style="stroke:#A80036;stroke-width:0.61;stroke-dasharray:2.0,2.0;" x1="31.72" x2="392.23" y1="129.9395" y2="129.9395"/><text fill="#000000" font-family="sans-serif" font-size="7.93" font-weight="bold" lengthAdjust="spacing" textLength="4.27" x="39.04" y="126.9771">4</text><text fill="#000000" font-family="sans-serif" font-size="7.93" lengthAdjust="spacing" textLength="145.18" x="45.75" y="126.9771">Shows all data and requests confirmation</text><polygon fill="#A80036" points="385.52,146.014,391.62,148.454,385.52,150.894,387.96,148.454" style="stroke:#A80036;stroke-width:0.61;"/><line style="stroke:#A80036;stroke-width:0.61;" x1="28.67" x2="389.18" y1="148.454" y2="148.454"/><text fill="#000000" font-family="sans-serif" font-size="7.93" font-weight="bold" lengthAdjust="spacing" textLength="4.27" x="32.94" y="145.4916">5</text><text fill="#000000" font-family="sans-serif" font-size="7.93" lengthAdjust="spacing" textLength="71.98" x="39.65" y="145.4916">Confirms information</text><polygon fill="#A80036" points="35.38,164.5284,29.28,166.9684,35.38,169.4084,32.94,166.9684" style="stroke:#A80036;stroke-width:0.61;"/><line style="stroke:#A80036;stroke-width:0.61;stroke-dasharray:2.0,2.0;" x1="31.72" x2="392.23" y1="166.9684" y2="166.9684"/><text fill="#000000" font-family="sans-serif" font-size="7.93" font-weight="bold" lengthAdjust="spacing" textLength="4.27" x="39.04" y="164.006">6</text><text fill="#000000" font-family="sans-serif" font-size="7.93" lengthAdjust="spacing" textLength="92.72" x="45.75" y="164.006">Informs operation success</text><!--MD5=[868ba18a40790e6ad75df12596a7a61a]
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+actor Receptionist
+
+Receptionist -> System : Asks to register a new client
+System - -> Receptionist: Asks for Citizen card number, NHS number, birth date, sex, TIN, phone number, e-mail and name
+
+Receptionist -> System : Types the information
+System - -> Receptionist: Shows all data and requests confirmation
+
+Receptionist -> System : Confirms information
+System - -> Receptionist: Informs operation success
+
+@enduml
+
+@startuml
+
+autonumber
+
+actor Receptionist
+
+Receptionist -> System : Asks to register a new client
+System - -> Receptionist: Asks for Citizen card number, NHS number, birth date, sex, TIN, phone number, e-mail and name
+
+Receptionist -> System : Types the information
+System - -> Receptionist: Shows all data and requests confirmation
+
+Receptionist -> System : Confirms information
+System - -> Receptionist: Informs operation success
+
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 10:25:05 GMT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>
